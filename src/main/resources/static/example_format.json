@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Space Adventure",
+      "price_history": [
+        {"date": "2020-01", "prices": {"Steam": 60.0, "Amazon": 60.0, "eBay": 60.0}},
+        {"date": "2020-02", "prices": {"Steam": 55.0, "Amazon": 55.0, "eBay": 55.0}},
+        {"date": "2020-03", "prices": {"Steam": 50.0, "Amazon": 50.0, "eBay": 50.0}}
+      ]
+    },
+    {
+      "name": "Space Adventure 2",
+      "price_history": [
+        {"date": "2020-01", "prices": {"Steam": 60.0, "Amazon": 60.0, "eBay": 60.0}},
+        {"date": "2020-02", "prices": {"Steam": 60.0, "Amazon": 60.0, "eBay": 55.0}},
+        {"date": "2020-03", "prices": {"Steam": 55.0, "Amazon": 55.0, "eBay": 50.0}}
+      ]
+    },
+    {
+      "name": "Space Adventure 3",
+      "price_history": [
+        {"date": "2020-01", "prices": {"Steam": 60.0, "Amazon": 60.0, "eBay": 60.0}},
+        {"date": "2020-02", "prices": {"Steam": 55.0, "Amazon": 50.0, "eBay": 55.0}},
+        {"date": "2020-03", "prices": {"Steam": 50.0, "Amazon": 45.0, "eBay": 50.0}}
+      ]
+    }
+  ]
+}
