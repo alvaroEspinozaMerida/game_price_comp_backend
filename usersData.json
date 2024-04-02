@@ -1,273 +1,2604 @@
 [ {
-  "Cheapest Price" : "0.99",
   "Title" : "Insane 2",
-  "Key" : "1"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "smEix0i2AFa3m%2BxY28aa4gTOmTJ2paHkomR8pV%2Fdpn0%3D",
+    "price" : 6.99,
+    "retailPrice" : 6.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Uj52tyzs0gsf5BI6QD3jxSrZS2iakSd4Bv8txbAhO94%3D",
+    "price" : 7.86,
+    "retailPrice" : 14.99,
+    "savings" : 47.565043
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "qA2rgBmr1ghSJ4jkErABh61aHfE9GzZcEfXWNgmFYNE%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "35320"
 }, {
-  "Cheapest Price" : "6.24",
   "Title" : "Evochron Mercenary",
-  "Key" : "2"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "kyyXFup36h03rmoY%2BruepfkobNiDU7g%2BOwYaIHbfVAA%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "71000"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Unstoppable Gorg",
-  "Key" : "3"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zrK7O7Xn368%2B5zXU%2B32aPdn1GSvWxy9xIrgdfi4uxUg%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "18120"
 }, {
-  "Cheapest Price" : "0.74",
   "Title" : "Storm in a Teacup",
-  "Key" : "6"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZCbwB7BvLaMB4cOjp5t%2B22F3R9bqjgCijPNMpipI%2BDI%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "dQyRlxTIW1ZpMjPpEflG7JayDUBkk3%2F2QrUXNGOrKWM%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "104020"
 }, {
-  "Cheapest Price" : "1.90",
   "Title" : "Sonic the Hedgehog 4 - Episode I",
-  "Key" : "7"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "vIARkS5kEUKRS%2BvSzaUtU5pT1TAbmAFpqZWw5fHYOoI%3D",
+    "price" : 8.19,
+    "retailPrice" : 9.99,
+    "savings" : 18.018018
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1UEFXMtXu1iin5WYGne%2FpjcymWmkE7ZsFwsOMkVl6Ww%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "a6%2BxFMHJoOBanPIjNhsDRDuXplz1%2FlFpGPUUlMjc3uI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "25Swrm8PsqiB1lI1DvgC670zQvw8RVVF6LcQhI9ZLos%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "4TY5x7w5lNZTsFZnMjr5oAiGyFOhqbHOmWQzb42tlfo%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "202530"
 }, {
-  "Cheapest Price" : "3.99",
   "Title" : "Age of Empires III: Complete Collection",
-  "Key" : "8"
+  "Deals" : [ {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fs7wTXBJCKUCrdDC7qb8GFgEHCVK4pjsu1IITwx4pHI%3D",
+    "price" : 39.99,
+    "retailPrice" : 39.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "1.19",
   "Title" : "Q.U.B.E.",
-  "Key" : "10"
+  "Deals" : [ {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "568yvGvcaJMLxNGdWirThSc5wflbE3xBZjN2ZkOoWt0%3D",
+    "price" : 5.99,
+    "retailPrice" : 5.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "6.89",
   "Title" : "Total War: Shogun 2 - Fall of the Samurai",
-  "Key" : "11"
+  "Deals" : [ {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pOlURp05c7e%2BSdehk5lYSVtnhsOkW9AZT2eNQtGyoyk%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "4.75",
   "Title" : "Anno 2070",
-  "Key" : "13"
+  "Deals" : [ {
+    "storeID" : "13",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zTBCMOoW%2FkTLaipPT9Gj6B7t8oTW8q0A5jazUwXxcdk%3D",
+    "price" : 5.0,
+    "retailPrice" : 19.99,
+    "savings" : 74.987494
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MWkbHdjCXD6eZT0Thw6%2BU8Ff17%2BejizeFzOgY8wQVzo%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "nMaG09jZ4jrxIAWkDe0K4wpzh63GeyBjgTKdYbiF8m8%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "nMsMSTpmbhAKLeYbvJASFcV1nAh1wGy3%2BoVsYwXzKPs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "48240"
 }, {
-  "Cheapest Price" : "0.49",
   "Title" : "The Blackwell Legacy",
-  "Key" : "15"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "EA%2FRT923Zl9WynQjAMRZOQ7EV%2F5fnv99xr%2BWGPbYs1M%3D",
+    "price" : 4.95,
+    "retailPrice" : 4.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "bPKcQZ4nfIIVyQsjslYeph2rS8uT1XK6KuwQv8e6QiA%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "80330"
 }, {
-  "Cheapest Price" : "0.49",
   "Title" : "Blackwell Unbound",
-  "Key" : "16"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0%2BzFWCALAO%2BTrxmPgVFT8cCQUDzQUq%2BaxZC98fjlN%2FM%3D",
+    "price" : 4.95,
+    "retailPrice" : 4.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "KB9QtwQHBs%2FkSHEMSz1uGpFoLRYrlpKKKiSEGElh8P4%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "80340"
 }, {
-  "Cheapest Price" : "0.49",
   "Title" : "Blackwell Convergence",
-  "Key" : "17"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "eoTfaYZkHecamFMQKXMKTgKyWECC%2B1%2FhwvDjxmuFJyg%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "80350"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Blackwell Deception",
-  "Key" : "18"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "U%2BOHjMyMf65x3IbjFDN8Y%2F0AOOrt%2FioKTbI6%2BowzEf0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "80360"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Saints Row: The Third",
-  "Key" : "19"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Grk9P8ePEWse3q8d2r48OM1YaY2uTVFiXZvY20009NE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "gwDwc6Wfhzvjs9Rxi2L8%2FxmWqVIL2%2FmY3XTW%2FLy%2Bvdc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "PM0dgo%2BBn3aULqTE6OGcYqfJchLm4aQdeKHjVRY%2B8O0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "IFN5NbpTgE5uvtlaFQHHJXSY9EfIxhs8H2pMcw8Oli0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2Bvk3hJLoWwiyVPu6XLV2HdrF%2BNBPG9UZTdSgocvDdPE%3D",
+    "price" : 10.79,
+    "retailPrice" : 10.79,
+    "savings" : 0.0
+  } ],
+  "ID" : "55230"
 }, {
-  "Cheapest Price" : "1.50",
   "Title" : "Choplifter HD",
-  "Key" : "20"
+  "Deals" : [ {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ku9u0rMq2Uvh6PwUkLIrL49SjrtDdt%2BYDkc9eJeTgFA%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "tZqDWPbYoKtDuMwxSBPeKJ4%2B7IvaPBiwk11aBtKgrX0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "2.99",
   "Title" : "The Darkness II",
-  "Key" : "21"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MjAcYLEGEIqkt2q7uaX6B0YI%2FW5ipTZBT9rY4fi0f1A%3D",
+    "price" : 25.19,
+    "retailPrice" : 29.99,
+    "savings" : 16.005335
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "h9GE9EYxxeYzi6G7ZEvoZSKmWOdAi%2FspBfbQYigH9PM%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "qGaYtYZlx48QG6THenNa6ndOrfkczxQxm%2BUX4EASaXg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "4VGW4ix4gorvRoqMdDrM%2FGPsr4Bfnb7Y7CsjdKijUFU%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "lI2B7fKqoZFGVO4J5vLDLT%2Fpal4ZybNvj%2ByKBdZMr1Y%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "WfNksbCoxxGpzxvsXLXlSQjjLJNrvTF4f%2BVvEzIiTlc%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "l%2BF3%2BbPpmiia0%2F%2FmwSXARUJrAYxccK9U0A2H6xpGj%2FQ%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "cxjvCKF9Kp83%2FLT1ha0VtZM9knHpqukbs54AXH3VG3g%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "8yd%2Fs0C0kEYtj7cu%2Foq40PV%2Bnvd7mLPaQxT%2BPrUxWJs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ALKa28Lp%2FPQGAt7T80hTdDO6QLgLuFruZ1YDvDxXiSg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Gw07xEWR3kLJw%2B%2FA0YwVol5P%2Bq4a5AQMqzORozO75Ec%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Z5PH7zMQfwsb4NiSI3rZ7d2GyA2vdpTvrXgEb2bxu74%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "gKwDNs26abigRNGjuee3I08c5Mp2LnQ2izXePBGZ%2Fcs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "67370"
 }, {
-  "Cheapest Price" : "1.49",
   "Title" : "Fable - The Lost Chapters",
-  "Key" : "22"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fA%2FjCg00rI%2FYI3jcw7te8XkGgfhmaTHcTOwLHQNMvMY%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "wD9iVW7hO1wYDa%2BqHKeLfRs4M25%2Bmm5b4RPUo7uUlqk%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "204030"
 }, {
-  "Cheapest Price" : "4.25",
   "Title" : "Assassin's Creed Revelations",
-  "Key" : "23"
+  "Deals" : [ {
+    "storeID" : "13",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "aNN7CyJMrQK8FUB4eZi3g3f2MZorzUK%2Bkhxi%2BzZSlgE%3D",
+    "price" : 6.0,
+    "retailPrice" : 19.99,
+    "savings" : 69.984992
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UMxhbhtJhytwW5Sulk8qJrtYpHrjlnmsnYnZENK8oEk%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1eUZNmzp2DIU1xOcNlnB607xiNhVOv6EaCJHJ4jrDW0%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "x9WrRag3Y0%2BSSMGh4PXLWxgY60RpZ71boNFNFT9wukU%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2B1vW63o6PTZHnUuygWOkzU5kgkeRsdPqmlpmY24WhDY%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "201870"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Jagged Alliance - Back in Action",
-  "Key" : "24"
+  "Deals" : [ {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "oQ3cSTsX%2Fi%2BWlc%2B%2BMQmYyF63fMLAQQ2HYH%2BYsCCXJSs%3D",
+    "price" : 5.0,
+    "retailPrice" : 19.99,
+    "savings" : 74.987494
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "psZK4n1X6zmFCgl44T%2BWAJCtoGxLxgYowr4c8qCopGQ%3D",
+    "price" : 16.79,
+    "retailPrice" : 19.99,
+    "savings" : 16.008004
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "3Dh7R3n0LPTK%2F6W2E94ZB1FEYcVcpOMzknE3EnR9QKA%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "OqHnwbQLC%2FUqrmXYbBcWbDYNOOOtdbyFVDDjlccpHzg%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Ko7RB3nhBvcIyQnGSC5vJSn42fHpNXJzWwUmsTIv74Y%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fjsftqVjm%2BzA%2FW8CuzOzcOXd24Cs%2Frp6FaMAVZtHRT8%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "cNKAYUxK%2FH5n7BZ5IeNu83lr8LcJAFuKtOj1N%2BscHl4%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0BtqRq29TdMnWOZZyl7OO5QyGer6Hky4CUYGWy3Gwbo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MO8Fgk5ayv%2FPv3TwkF3IwoOwxOZ%2Bg7Hf5tljy5%2F5MvA%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Yah4ZC8m6hPc%2FMXIycrtrqqHH9ZD4rBq15MkJwTrBhw%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZArmegmgCHazuXT6PrZMvexSCDPQEVQ0%2FNWvdvXZPQQ%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7Sbs6UrXV6VrPcpTTVCQlrb1L9SwDJTvrjthuQ0JPf8%3D",
+    "price" : 21.59,
+    "retailPrice" : 21.59,
+    "savings" : 0.0
+  } ],
+  "ID" : "57740"
 }, {
-  "Cheapest Price" : "3.70",
   "Title" : "LEGO Harry Potter: Years 5-7",
-  "Key" : "25"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZvyzPWWOmCPcyNdVMIYFwh7CoZhOpdRFutfZg1%2FnoX4%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "DNsC5AFutyCc8NpYn%2Blm94FZYnedjNPecocMhbY3Mc8%3D",
+    "price" : 15.95,
+    "retailPrice" : 19.99,
+    "savings" : 20.210105
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "NmPaKp0wWPTzvfFzkbXN0JH3OELACyrZrsqwGer5ov8%3D",
+    "price" : 15.99,
+    "retailPrice" : 19.99,
+    "savings" : 20.010005
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0oatZ9PdAkJkRqhmygINvLg7pxWMBOQGeupCG4fb8Rw%3D",
+    "price" : 16.79,
+    "retailPrice" : 19.99,
+    "savings" : 16.008004
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "lv8i06bqpdd8KOsPmdjN5IF%2BrdDPPQMfkPesD7RJbas%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SkGqfFPUnpK0VS%2FqljYpbg73VeGC8XjGnuWiF%2Fatxq8%3D",
+    "price" : 17.79,
+    "retailPrice" : 19.99,
+    "savings" : 11.005503
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ndQGbdc0tfqWT4vl%2BvJS6CmYxkSmmwiTNXDkpbqfOTo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "5sBfhNMjqCyJBXPXMXTSNpLafiM37hz9lFz7Pq%2FK88U%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "YpMf78Mii0tZP0%2BsZpGX%2Fjyr4fcQVYlkyk9VKSu2r1o%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "xDKxFejq%2Bn%2FY8bwiQ8JS4iHtpRwrvxJ72UqLr3gmC0w%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ENyH6aP6yGqEVVHzJ7PGY%2FoUgP6iy1ssbQeg3al17eE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "YDsqZJaywN6lyMEIZaR4Z9%2BW8pI1WdeO0pro1tnALLE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7O6PRI89nHQAPPiK1%2BVatpna7Pc5KNM5xY31KhAUvK8%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "c%2BfxTMGcLeGtKdSiLzDNBOwBvlOTgdonL5%2BHzte3Adg%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2Pql7PQK1Hl4yqgLa3FHG9fjjpdyOMETMz%2Bu4rKuhNE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "204120"
 }, {
-  "Cheapest Price" : "2.99",
   "Title" : "Sins of a Solar Empire: Trinity",
-  "Key" : "28"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "PDaBBFVc5wqtW5%2FoE%2FVeS%2Bm5aS%2Fn8KgkLsedz5O6i64%3D",
+    "price" : 3.99,
+    "retailPrice" : 19.99,
+    "savings" : 80.04002
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "g3jdamxUBgL1otTZ67MzUcXR9aTDcgqwCBDZqi6noOs%3D",
+    "price" : 5.18,
+    "retailPrice" : 19.99,
+    "savings" : 74.087044
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "sPKKO8Vs%2Bt%2BWFrLPQnqboXt91A3boUHlR6feb6KPnLQ%3D",
+    "price" : 14.69,
+    "retailPrice" : 19.99,
+    "savings" : 26.513257
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "XwqnvW7o3iuTLxdosKyIxlY2lHmS9tCl0GISL7Ihfpo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "iNr09%2Bpvq1hYDhTt29WoEv%2BfFqa9XH3GEhJgN7GGf3o%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "OZkGThnVlnnSZHA7b4rLbOpW9O3jvFkUObyr6n2cQSk%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Ck%2BsXq0J7kCeH6iGhTLgyt4bjHklgVGxNwuiOfxsQLw%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "201290"
 }, {
-  "Cheapest Price" : "0.00",
   "Title" : "Galactic Civilizations II: Ultimate Edition",
-  "Key" : "29"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "wqwewi%2BBWop5GAYP2NrXML%2FUWm%2FegDznaFvoifsFx7o%3D",
+    "price" : 9.99,
+    "retailPrice" : 19.99,
+    "savings" : 50.025013
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "3YFtzJN9Dg%2FxMxomRHc8KbPjZa36LEgg2zdt2roF3V8%3D",
+    "price" : 14.69,
+    "retailPrice" : 19.99,
+    "savings" : 26.513257
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "6zke%2FOF9y9Vtzh1mvEtgmJgf5EkEAx%2BhKox3lwY36bo%3D",
+    "price" : 16.59,
+    "retailPrice" : 19.99,
+    "savings" : 17.008504
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1Ksn5baok%2BtpGTWFI33t%2FKZSeVQOH8GXJhuQuH4Ro44%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MUU5%2FHCS8cfCz3l1kKSiNh%2FuktalDJG4Rjqz1AQJKpc%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "5YmMcWKt1s0A2aoVt%2FxSmQuqtrxDJQPA98Uy2WNMmTs%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "w0tVDEVAstcFquwgI950vrKn4NJcu10ztMUmlQUmlAs%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZJMCZNUqucwTpH8yNsUG0A3ACsBpH3a%2BB2VY7fJ%2FJzQ%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "xvlWISLuwH8hJAZxKrceW0xzMpgcSz4nbuH%2B55o%2BQqY%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Q503kpDQfa4xgxNklDVR4Vwz05LZ27KfQu469i5dHW0%3D",
+    "price" : 20.39,
+    "retailPrice" : 23.99,
+    "savings" : 15.006253
+  } ],
+  "ID" : "202200"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Demigod",
-  "Key" : "30"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "lVkDO2mZAOAbZGQETxJxnuwHntDDTzWEfBBs8%2BosT8k%3D",
+    "price" : 2.49,
+    "retailPrice" : 9.99,
+    "savings" : 75.075075
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "qLeo79RaiUED%2FhoL7Kd7evv7IYrmhcItXCGAQN%2F9vm0%3D",
+    "price" : 7.6,
+    "retailPrice" : 9.99,
+    "savings" : 23.923924
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "35xYhTeXVT5cMtI4%2BQmsPm5duscmm502DsJl2CGmb3c%3D",
+    "price" : 7.89,
+    "retailPrice" : 9.99,
+    "savings" : 21.021021
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "sOG4MI83T842ITIiaH%2FAN4DobE%2FGhcnPFH8xfV8SSlQ%3D",
+    "price" : 8.29,
+    "retailPrice" : 9.99,
+    "savings" : 17.017017
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "yWOqBZUuIhvQSRb7lYK9d3mP2xHgoHfXoIG%2FR6lXpN4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "GHpYh4RM8KFHwUO8yI9hPUG6rJnbOfGuOgv9Y55FwTc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "LuWOeRzlC2a3swmtrBry7cJ63VAxgh0V7rTLxhOzoyw%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "P7OZq4JQtlXsPYU2NtYk9dxP4noDvPFVA%2FpTzUJHqx0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "202710"
 }, {
-  "Cheapest Price" : "1.49",
   "Title" : "Dungeon Defenders",
-  "Key" : "31"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "m%2FoAulxV0BJhwZPtBz98IRt4Xmeh5anvLwFI2OntKNE%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pxYFgD94pUOwm53cm7KmJwfgUCTLIII01cjDrLOP2eU%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "65800"
 }, {
-  "Cheapest Price" : "1.66",
   "Title" : "King Arthur II: The Role-Playing Wargame",
-  "Key" : "32"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "nQL7IwfOwWaaeL1%2Fa14Iv80yy0P%2FUTWRYfpt0MmbRrs%3D",
+    "price" : 8.39,
+    "retailPrice" : 9.99,
+    "savings" : 16.016016
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MmuXw42HtF4%2FxUHBU40zk7NKIPBypyLCgY%2Bl%2FiME%2FiE%3D",
+    "price" : 9.49,
+    "retailPrice" : 9.99,
+    "savings" : 5.005005
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "uYmH%2BTkYk8cshii9ynFFxkjDd4QB3venEGT5s2LfLK4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Zf%2FEMuYgRol81%2F07e4Yjm8FwAtTHHCMAdpPOEr7G%2BEQ%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "RA9rPJW7AhdTCDDZlImAYBIn%2FWqcsEjqlZxfLYTyIss%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Meib26WJO4H97NJSRZZxB76bUl%2B8DHKENVnn2OMr7u0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "LgCzkCQ%2FlzFnGF8l%2FSqPoenpnZJIMywY0RYtvUjd1rQ%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "NfZ%2BWpjdWFNVEx1vMu%2BLZNhBxqEqHfDoVHGEiA%2FrBRs%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "AWILNv1u3ocUS6N3%2BC5KFPtWdzLF95ptg3jXNqkvpvQ%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "x93lKzfjXIvrTZK%2F%2FVxeMyISCO2n59F%2BFYD5GakrP%2B8%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "24480"
 }, {
-  "Cheapest Price" : "2.15",
   "Title" : "From Dust",
-  "Key" : "33"
+  "Deals" : [ {
+    "storeID" : "13",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MLcNaSWeSQA6Z7esBeyfxo2cMlWMS2fSBFbKVDOXenw%3D",
+    "price" : 3.75,
+    "retailPrice" : 14.99,
+    "savings" : 74.983322
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "GZNouV8cjRY9RbhHUWu7HQYqVCwj1kOG3lZnAp2L%2Frc%3D",
+    "price" : 13.49,
+    "retailPrice" : 14.99,
+    "savings" : 10.006671
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fzY7xx%2FALnhbsyG6A8Lw77eFMCsNx08MfKiZTyrecoY%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2dydfoRh%2BY02CeQtrunu4cpnjQEkpd9kmgBfA6J68qE%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ch%2BQj217vFwAGae2x%2BlWpLiLetHYdtyZ3pr4gqQCksg%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "x5Rc1T0sNkOZTalEnwUrWCUWqQKZXUDF%2F765c%2BggHRg%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "33460"
 }, {
-  "Cheapest Price" : "0.75",
   "Title" : "Earth Defense Force: Insect Armageddon",
-  "Key" : "35"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "6AuWH0ta49ZcVMCM42WLO5qI1JDIyoqnkdEo7csBhO4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2Fbf4hD8ZWk4NgB4JeKs21sck9fZ%2BXWhM6wmUNEGWKtE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "23530"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Portal 2",
-  "Key" : "36"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "rwQ2JCEr5NOySyBsAj6fyPuZg4qMlh9w67U%2BmM6b2VE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "620"
 }, {
-  "Cheapest Price" : "2.03",
   "Title" : "Satazius",
-  "Key" : "37"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2ZTWmzP24KASYH0l%2FsNsjUvsQgrF7frM1EPVQg4bWMo%3D",
+    "price" : 5.99,
+    "retailPrice" : 5.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "YCYucV4XvS3N5VyDEUndMX9lWjzU6%2BGkUrZLHOCy8ZM%3D",
+    "price" : 5.99,
+    "retailPrice" : 5.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "203990"
 }, {
-  "Cheapest Price" : "2.68",
   "Title" : "Serious Sam 3: BFE",
-  "Key" : "38"
+  "Deals" : [ {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "02lP0PBd7DEZcbnOl2q4LXORyMjWCxZRjhtBy2UX1tE%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jWhQ1b6ls6kOfOYddq6WtWG6lGgJOpcDueM9PIWTg7A%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Xmx3RI5mIetQnQNRj1RIe%2FUYPWGmOcElNA%2BEgimmTRo%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Axq8jaQUxDiGsEr8gm5omeisDcgTKD%2BintepjTD6rrk%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ptUz1hQH61FzusS0R5A9wR9bdmuuybFtEDcCOlpyuHY%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "41070"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Terraria",
-  "Key" : "39"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "BX3OuYHFGTMaFgC7PgL%2FLfkTCqMjbD9vV0huwrp7Qfs%3D",
+    "price" : 8.18,
+    "retailPrice" : 9.99,
+    "savings" : 18.118118
+  }, {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zFnNIDj6%2FQW%2ByvkmMRqnvEkNG%2FqLe3GrbgfDV35hMEg%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2B7y%2FjZTRXxyTajQx%2FtvBN1%2BoisI6Iv5D7TL9ma6o7lU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "IBQXplunmKG3KJSEjKcRjJ0qfZfW8UnG9c3QBVPfeeU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "105600"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Sonic Generations",
-  "Key" : "40"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "JmWfH4eg9CGgrVv3Tv1%2BI2Kyb9NEZ9b7n%2BfbuoE9dcE%3D",
+    "price" : 16.39,
+    "retailPrice" : 19.99,
+    "savings" : 18.009005
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "w3eBGNUEXz1IW0R4WYP2PfVVPAEA3BiP5EsPzV%2FSZ6g%3D",
+    "price" : 17.88,
+    "retailPrice" : 19.99,
+    "savings" : 10.555278
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UAwpyzExAOVaYjUOvolzdpQhnMw%2F8WTzQF%2B3nAeJ%2FYg%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Az51BXgO%2FuH6nRjVlx1Ky6dWKbpMgNtdgoTvQOTF1GU%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "u%2FJvvVYUPeCQMqWxAwnccnY0dTsPLWeolpSfoJ4HIiI%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "8wf3V88WEZdWmouEYD4uQKsbmysoHbWNQ5oT4KNhPyc%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Left 4 Dead 2",
-  "Key" : "43"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "hz73JxyUB2xNG3rNqBY7V2XKj9UTE2dWUIZAfmTdvMk%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "550"
 }, {
-  "Cheapest Price" : "5.89",
   "Title" : "Total War: SHOGUN 2",
-  "Key" : "44"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1IUsKcsMUJmd%2BQ%2BaViUV3lC0VdoyDuD%2BWg30do5n%2FY0%3D",
+    "price" : 6.88,
+    "retailPrice" : 29.99,
+    "savings" : 77.05902
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "QYiGx1v52WhiPPRtzlsIlscHy6S%2FiOTzTYhbJPEMF1g%3D",
+    "price" : 24.59,
+    "retailPrice" : 29.99,
+    "savings" : 18.006002
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "CoYmP%2BVAmrToquR%2BNtTO0uYnzWsMeGKOmhDwCJRrWmc%3D",
+    "price" : 26.88,
+    "retailPrice" : 29.99,
+    "savings" : 10.370123
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fg4b7M91JTIS9vJhTvdMqUFYyVXUBvjZx5j9rIcEb%2F4%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "aQXe9dHHvfo%2BK9m0VJvapH5eTqOlyUcl%2BwBuD%2Becb3I%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "lmqT20SWptBoVWOdYrGjtsIx99f5S9x%2Fh0CkJR96H6w%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "yP2PDsHwpqb%2BFKmykWoFvfIjQp4YCoYnr8sjSR1L2As%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "XM1vdry2W10bCWhKFioSmAafKx2ylRCsWQo%2BVnP9Et4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jFVI38mQYZ7dXFtgt5xEbnfGoxi61820AvVF%2BhQZkO4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "201270"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Counter-Strike: Source",
-  "Key" : "47"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ITKzl55fzbZze2KglmLVAG0pvnUnT6L4MkT%2FApDDxys%3D",
+    "price" : 9.89,
+    "retailPrice" : 9.99,
+    "savings" : 1.001001
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "FMLp0LRsw1NIWESWgZ8Qlk%2B7qR14NQIeUAETjoU3yDI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "240"
 }, {
-  "Cheapest Price" : "0.00",
   "Title" : "PAYDAY The Heist",
-  "Key" : "48"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "toLEWfZs2%2B8OaqfTXRMlXlJxwKUOqzCa6wPJzg5Ay1Q%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "24240"
 }, {
-  "Cheapest Price" : "2.24",
   "Title" : "Bastion",
-  "Key" : "50"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7Mb9vyjwQ4Vuk0mqan9%2Bt454S5349J8zlkAcqr1zUi8%3D",
+    "price" : 3.74,
+    "retailPrice" : 14.99,
+    "savings" : 75.050033
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Ah4192BgqOGXKqik3odzP3HQ19gBvnUITujh4gwK3C0%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "VW6BlC2zFviO8rtCuNNipSWfkhgU5kexj7p4CzbJSsg%3D",
+    "price" : 14.99,
+    "retailPrice" : 14.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "107100"
 }, {
-  "Cheapest Price" : "0.60",
   "Title" : "Real Warfare 1242",
-  "Key" : "53"
+  "Deals" : [ {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UqZ6d5L%2BwpZc5l6FwANR%2Bi8JkdM76vdPaQhTHA4B6PA%3D",
+    "price" : 3.14,
+    "retailPrice" : 3.99,
+    "savings" : 21.303258
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "j5fA0CCORFPvHzJJnJ1sRMT734JhJ6jeGhz4ghB%2FO8c%3D",
+    "price" : 3.29,
+    "retailPrice" : 3.99,
+    "savings" : 17.54386
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "bL9aHN4%2Fb3Td5eoEDjN1a8QF1hTVWX5FuJaMsOqlAnw%3D",
+    "price" : 3.39,
+    "retailPrice" : 3.99,
+    "savings" : 15.037594
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "P7r9BBAdpq5HxJGgk7MYVR2NB%2Be3O16WS221HUk8SCQ%3D",
+    "price" : 3.47,
+    "retailPrice" : 3.99,
+    "savings" : 13.032581
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2B2rXC17G7pwGTkCBLDa9SoRBJJtH1LDawKaWhgooR74%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "77A5n6I6x3Eikl9BXU%2B3jCOTebW4KvkmRYIwBknQXus%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zB6JAOsdlIs3pzkr1tMR4y6DvvYxgjTTPK0TVGkpEqQ%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "oKKF6RYOBlcMJMJfgxeFEefquca4zkWHrofLPLKqg4Y%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "j5TXbnRGAqtlZNfAB%2FIAX0Y%2B%2FlAw56LejLSiPucEyME%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "83IKBJF%2BiKWZrLned3oK4tXIfAm9p%2Fkv3gYpWR%2B%2FS4o%3D",
+    "price" : 3.99,
+    "retailPrice" : 3.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "46350"
 }, {
-  "Cheapest Price" : "1.04",
   "Title" : "Fractal: Make Blooms Not War",
-  "Key" : "55"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "l4%2BD3lqFXC%2FKGUVvgN6C%2BPcsCpFJKICNIQdWkwc1%2FgQ%3D",
+    "price" : 6.99,
+    "retailPrice" : 6.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "61310"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Orcs Must Die!",
-  "Key" : "56"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "4rsjkg9bntc%2FaWFG26rG0uruqn17OULHMwzTPUAzx0Q%3D",
+    "price" : 2.25,
+    "retailPrice" : 9.99,
+    "savings" : 77.477477
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "szsvNonAusShMDRfUarukmRP1E8U5bfxUeAS%2Ba53Z4M%3D",
+    "price" : 3.17,
+    "retailPrice" : 9.99,
+    "savings" : 68.268268
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "VeomyheSl%2FXb%2BXxQWk2uSIGDimlmwOpdBwqN%2FeILrJI%3D",
+    "price" : 3.4,
+    "retailPrice" : 9.99,
+    "savings" : 65.965966
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0cfRRgPMmb%2BoxMIDl%2BQxniTYSyFNMakKeaO1wu98MS4%3D",
+    "price" : 3.49,
+    "retailPrice" : 9.99,
+    "savings" : 65.065065
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "aGcWEk0LnjgBHrGVK4SMFoJ%2BP0em8D38Ou9311VISqw%3D",
+    "price" : 3.49,
+    "retailPrice" : 9.99,
+    "savings" : 65.065065
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "RGYkFONYpmZnuuu8%2BwOGd9oWcsJfjUMfSmtftBApkIM%3D",
+    "price" : 3.5,
+    "retailPrice" : 9.99,
+    "savings" : 64.964965
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "v9%2FJFX5fdzuaQNVmSgFovSF6J18JBIbmiTImIQR%2F%2BjE%3D",
+    "price" : 3.5,
+    "retailPrice" : 9.99,
+    "savings" : 64.964965
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "3%2Fn6UWcuOfdisLlHEW69fSTPayRNDWzFGh96DRFdbXo%3D",
+    "price" : 3.5,
+    "retailPrice" : 9.99,
+    "savings" : 64.964965
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Ivnmh49eRxlLM4fnaJ8rkC1T0Nsjyq9bc2JX7uYhSHs%3D",
+    "price" : 3.5,
+    "retailPrice" : 9.99,
+    "savings" : 64.964965
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "nxqbh%2Bgim7tpk4uwZscmmh5%2Fqsy1XB88Qt2dpO5uBFM%3D",
+    "price" : 3.5,
+    "retailPrice" : 9.99,
+    "savings" : 64.964965
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SA0Guvhp%2FSAhzJrozDuALctUVjgMU4lTKFgUeuTHq1Y%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "102600"
 }, {
-  "Cheapest Price" : "0.00",
   "Title" : "LIMBO",
-  "Key" : "57"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "iORBso7U4s9zk78tG4U6z0%2FpzUsj5or%2FXRECnywxVXA%3D",
+    "price" : 3.28,
+    "retailPrice" : 9.99,
+    "savings" : 67.167167
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "aREl%2Fz01KIWQQsK3gBNbfX6AaWRLEAGgA29ECAU00CA%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7mLfUlDp%2FyWaFoYbl1hiHT5Ds7ZhWcj4pg7F3xxeGf0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "O8PEGxkvdwTfDJxdFC3x0DrdUfE%2B2vjmIoJIwjQg4JU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "h5OrCyPY7FDEs1OjAVBHl8HML%2Bx1%2FyKvLLh0k5bfwIE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "X9XEB%2Fw3H%2BmI80UYR458fzGB9zWEHde%2Bz2e8vPvNWl4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "48000"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "SkyDrift",
-  "Key" : "58"
+  "Deals" : [ {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "mKDnm4FhO3MQSW8guVLVMTKfJXvV42AGhSUXaZY6Pac%3D",
+    "price" : 7.89,
+    "retailPrice" : 9.99,
+    "savings" : 21.021021
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UpQeKJAHAxmtP5UNbhAVEHYzaGECzqC5N1HNQp9%2BT8o%3D",
+    "price" : 8.29,
+    "retailPrice" : 9.99,
+    "savings" : 17.017017
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "MWfwaTPyAXMQqCsMNKmk%2BvBMUw%2FzUoxYQprkAacfkKU%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "rdpaXgg8WeUnX1jRzwmmWG%2BaiV3ao1rgY2fXOxjJO1w%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "aBcmMtDX9CNZkHiMbMkn8jmcCGe1pBK8RpR0ZVElP0Y%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "EulhRZIbm%2BvV0JjDGrZLCOtm2OlBXLKtAFx560Vexjk%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "4NSnul16Ky4Yl11vGTtpEL3pAE7T%2B0Y13m8E9AmjD3M%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "45e5iDdizxRWjR1jfQ933sS6eustI8sNJ284GRreAHw%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "R9t2F9joeikOauXFE%2BxogHG7bPks0eS8QoDQn0jeXCY%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0YNukv3%2FKDCp68UNa%2BZvvzjH1UsIcC%2F5YcZYyRmGo0c%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2k%2F6DeEAkOUfdwvR9%2BHmMqlkXtE7Kz4EpHLZKl6YcTk%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "XtazPE9ho0RaoC7ZKyRrD0sQ6%2Bla8b86UK4aH3Tc93k%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "91100"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Half-Life 2",
-  "Key" : "59"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Vz5eZMF1sKvs02I4cuEgrGnmM1r%2BkWHig0YMa0lJ0vM%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "220"
 }, {
-  "Cheapest Price" : "4.49",
   "Title" : "Sid Meier's Civilization V",
-  "Key" : "61"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "8XdCivVnnzq11lJio0LrxOIa2%2BAeUN6UaKkY7CIb5Oo%3D",
+    "price" : 25.19,
+    "retailPrice" : 29.99,
+    "savings" : 16.005335
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "hK%2BHGiBNEl9RXDJ7v4IO2TuqHTGyDaXln%2B4r6Y5tjo8%3D",
+    "price" : 26.28,
+    "retailPrice" : 29.99,
+    "savings" : 12.37079
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UQUeOOzhgEtSPC2bQ%2B4%2F9v2DyucJjN%2BhZYB0BG%2BksmE%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UC0WgDfCnJeedl7IzegVYgEWWfd2yvXOo%2BPPB%2FuDK%2Bw%3D",
+    "price" : 29.95,
+    "retailPrice" : 29.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "d9215Tpp5rsK2NF52Y%2F3qoaktI1VeClIAMT0Y2lI4Do%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "papnVn2rniLd5KGRJSmMRzu24BRZFmXMCtydlzCGRnc%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "E07DGvVbfiDc7tV22G15EtCqWu5nsF396xxpcvVP00Q%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SGRhfWxOc7YoCvRw4DGIk%2F5CkMJePGm9uhnbY8lh7rg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2FLRSLETKOoIqr24lr5xy5%2F0LKoqt0IVFjqixaXD2Geg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "BW9vtzZ2rayOtDUM%2F7uUUYUIavQTQX2EnxnrW26ljyg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "RaH%2BZTQr5MsPcuk3vDdB5HolEASKEVwD2BrdCvQLNV4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Oq3TTU7EaKBuYPTUlXYJFKbCCUtqub2xNBeURsikzwg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "4ZWSzdBD5nD01PpFx3Z%2F%2FUC6V8f7FeQJzxCpeE8UrNI%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fkgybKvW9CpxMJrXKhvoAT3z2gjYneY94nepE81UmK4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "HtZHNru9DYOT1CPkI0QpRiTNklVUt43fMQbTTEwc32w%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "8930"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
-  "Key" : "62"
+  "Deals" : [ {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "BOyYB3Su%2BgXfftTvwUCuFmdrsIRc4jSGq6B5qo7PX2A%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "BYt36pVk8495mF%2FMR0%2BgAMuynVElylAhXllJ%2F6%2Fa760%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "15560"
 }, {
-  "Cheapest Price" : "2.99",
   "Title" : "The Sims 3",
-  "Key" : "63"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "dR%2BzICKEoBuZD8fTLsP4OeesHvEqORaa%2BqsBKJif2%2FE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "47890"
 }, {
-  "Cheapest Price" : "0.69",
   "Title" : "Grotesque Tactics 2  Dungeons and Donuts",
-  "Key" : "65"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "NWUVBdBiDuuChtu3POmA9wguu0oThAKp7CAPOj3U%2B%2F4%3D",
+    "price" : 0.99,
+    "retailPrice" : 9.99,
+    "savings" : 90.09009
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "dN3ze057G3fddypcxSqeLIJ6ak49crOlvB%2Fhv4kMW24%3D",
+    "price" : 1.5,
+    "retailPrice" : 19.99,
+    "savings" : 92.496248
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "xqLWofFMFzIqQSWvM1vORnsJjn%2BWlBsL8TIEKUWL0X0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "oTk5Vsi3fjCdSB2s0aWWlIJr37oENQPLPiChIfUhtE0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7%2FXrQcQqlOaOquhnCKBbYjLYEoXV6V%2BpfgXy9Z4C2M8%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ceSF%2F5ysvf8crvFi4LF1gYcSPKyaIwiGdeWbdTZq0t4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "46570"
 }, {
-  "Cheapest Price" : "0.49",
   "Title" : "The Binding of Isaac",
-  "Key" : "66"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "5BCL9aAYUPb10MeY2QE1jr6AKARh2tDnB3qb5LoTAns%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "113200"
 }, {
-  "Cheapest Price" : "2.39",
   "Title" : "RACE Injection",
-  "Key" : "67"
+  "Deals" : [ {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jD990MdZpteMChQTg2xn9JfUiQoCjvBSnXdiDaCI12A%3D",
+    "price" : 9.95,
+    "retailPrice" : 9.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "EXpJxQyrp62NpAnKrrTHlnNmPYdL5Yhydk6jshVdy90%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "VoOjqIbLSQqEg84w47tUXfxeJxNjn5KHya1LqHhkmA0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "RrCL4xu69MErC9YiSGDVJq1OeGp5os6W4Rc34yLNRRE%3D",
+    "price" : 10.28,
+    "retailPrice" : 12.99,
+    "savings" : 20.862202
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "YVC0NlpYZyn8GcLfkxF2txB6MwCcUddVd7Ch42R%2BNRU%3D",
+    "price" : 10.34,
+    "retailPrice" : 12.99,
+    "savings" : 20.400308
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "UFWut8kYE2wA3ciTkSYNLcISXxUoIcI5horN4ydKqSg%3D",
+    "price" : 10.39,
+    "retailPrice" : 12.99,
+    "savings" : 20.015396
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jfrLoDz9LuJN1iTE%2F4RC0QABNzMCN4JU0uQCza3ZLhY%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "cWKluO7pMJ6GtdMKL2zEt2Cfuh2ljdXayv0OgwSN3jY%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "FVWnNo3o1Ay453qrrqtCLuVMTFsTrSHFVs7IGATCuQQ%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SDwXV6j4y74FZfU7KxSk5WddzoQFqQny9VSazUhc6fc%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZegkWCbVEgeGvh5mv%2BAcEBSlfYANbkICTCZqmZ5PW3s%3D",
+    "price" : 13.25,
+    "retailPrice" : 15.59,
+    "savings" : 15.009622
+  } ],
+  "ID" : "44680"
 }, {
-  "Cheapest Price" : "0.75",
   "Title" : "Real Warfare 2: Northern Crusades",
-  "Key" : "70"
+  "Deals" : [ {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "vgZiEGv3K4VNR%2BetJdGR5wJldJHXhLDz5m5%2FRATxhwg%3D",
+    "price" : 3.92,
+    "retailPrice" : 4.99,
+    "savings" : 21.442886
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "24Yp6d73%2FSDu2dEvFK63ME7dYvPDmJ%2BduQVV0YM1sZY%3D",
+    "price" : 4.12,
+    "retailPrice" : 4.99,
+    "savings" : 17.43487
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "bxvRZ4xHxcJpk5SwlS%2F55ET%2F3yS3pGXeAfHEq5wsaTw%3D",
+    "price" : 4.25,
+    "retailPrice" : 4.99,
+    "savings" : 14.829659
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SVzTt8JzIrPvrYVXoXaehOifB%2FYOHqrNy1WP5G45NDU%3D",
+    "price" : 4.34,
+    "retailPrice" : 4.99,
+    "savings" : 13.026052
+  }, {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "9cs8mJsGVFRj30iOmpgUcUE0mi8DoUF7cYZjMo5X3c8%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "M%2BEmt1CYC%2B2DRDePghCRMIxYsjzlP6InhwCdQ2nVhik%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "04iWnbcHFsxMZttbI3Yu4sjldKTMF2%2Faz5edaj50bWs%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "7ulIh%2B0qccSvzOgSDZGYkwErNROrZ0eS1JlpT8N5T%2F0%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "6h4MKIdUl7K1f0q5zsqgU%2B%2FrbAKls7Anc8J15Ftozq4%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "qEvPtHz2uehF4l%2FzxJBEPADLCRPUq63dKUZoUjK3qkI%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "202860"
 }, {
-  "Cheapest Price" : "4.99",
   "Title" : "Waves",
-  "Key" : "73"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "GNG6aMwBqtkUe9eofv1VmHxQy9CTHgwX05wYz1jguwI%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "yuJP51VbQTIGQlpgTxAMtUMTiCYQrbebskIY8qN7VK4%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "0.00",
   "Title" : "Half-Life",
-  "Key" : "75"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "G%2BXAA0GGjaN4wXzRSpEpKtspbGp%2Bz3TJoNnhJI72Bug%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "70"
 }, {
-  "Cheapest Price" : "1.69",
   "Title" : "Gemini Rue",
-  "Key" : "77"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "WvzKHiaLfbUR7bFHkcNMgSNNK9Z%2B5BKYqiTkKPd6YZc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pvWFZbJ%2Fjk%2B4vcu7fSk5q3iXNVeCBslb%2BYxOD59M6MA%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "80310"
 }, {
-  "Cheapest Price" : "1.29",
   "Title" : "RAGE",
-  "Key" : "78"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "WPj7ZNirDdGGYgXB6ZTfqmwpYfiAO0nONJJLCxi1jVs%3D",
+    "price" : 8.39,
+    "retailPrice" : 9.99,
+    "savings" : 16.016016
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ch1U51s%2FbrgEpHZgOEdawwUVrDhtXf1Oq2yLLMdhBz0%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "khfKtJsDUpGpGJ%2BmRXiQvPycvNw34GmP6e2T0CAlr%2BU%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "xZ%2Flv6iYMLr9r%2F3WDugbq2BMj2ER2Wph0aZKBOMIAic%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "27D4NjG%2F5gOrEKDx8%2B3x8C67tqZgtfjJW3hzlauVQfs%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fuA%2FtVFLYfq5qcyTMTC6SFYKv6fJ6bNRJCcb6rgt5XM%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "mUB08gJZ3twmF7kIpsqHhPjBBdnR1ihKDwcHUjJaVKI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Qm2L3Dqv3Nf59RBVGRD9JSkIUOJbwiKXjVaYCPM57FE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "idLgUyir4o3lqqh2w%2FnJ81OYtQnlFqb9%2F5pPXUeVHEM%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "eryRPfFHnRGrrLA0MAn8eTShfGhQjsed3Yua1j%2Fvasc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "9200"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Sideway New York",
-  "Key" : "79"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "dOyBBwXJp7RY8ZWkcCtPjNoS4ZBQ73h%2BECbRwhdM%2F2s%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "5cGNr9ywjmpQQhyhQ8toy1cYIHLExYTx9PLfYU8%2FIoc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "200190"
 }, {
-  "Cheapest Price" : "2.07",
   "Title" : "Fallout: New Vegas",
-  "Key" : "80"
+  "Deals" : [ {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Fvvw7Tj67vWBEiUtU85HN04tCwvp5Z2EGZdom7iw93M%3D",
+    "price" : 8.39,
+    "retailPrice" : 9.99,
+    "savings" : 16.016016
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1gQ%2Bm1c%2FIkakzT5gW4jrMbE5%2BmBymKTUh%2FaNp3nFgc4%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jqrBxR1xSxD%2FhggYyOm4XTz23noY3LS2epCHQR0oaaY%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2FRgKuFZKzBeg%2F%2B4vXngW1xX25eBnchjyDG5X2QhOZmE%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2GLCarC4Pf7IUzCOru%2FUAteGoUP%2F9pOu2%2BfyW9O4JR4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2BFu5qCNNqQ2cWO4hhYDNXysV90nu9qQB%2BvWzRtHv43U%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "CH52XGPSjXq30gf08skkHcKwUMdMkQJX9t3mh5h9gGo%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "jIXWTxqVLLxau1jkGYavNklIjkG2yHrtWdBZSBctS3I%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zlgKg5wSwVleqbb9zc6ilPGIKi5VnvvRfuqMqa%2BCnKU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "8yNehu5KMt4LzzSYrCDUylD8BA9Y834zAc%2Fl6wXNEEI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2FiJwkoWbNfWrRaTIkun6xCHAs52zDjL0H9QpAZ%2FhwPo%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "LIdnQKkYIs9NS04ABvPE6K%2F0xvJg45MSeT%2FQ7t2CuVU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "22380"
 }, {
-  "Cheapest Price" : "0.79",
   "Title" : "Half-Life 2: Episode Two",
-  "Key" : "81"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "S0Ig5YiyefrWVD4DC7ZKSQLcr9sBbVuLAvP17Tq4Vfw%3D",
+    "price" : 7.99,
+    "retailPrice" : 7.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "420"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Portal",
-  "Key" : "82"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "rPSCN3%2FJpoZ0SjQ%2FgDXvmCifMHiePHA9JjbUPcGPS3w%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "400"
 }, {
-  "Cheapest Price" : "0.00",
   "Title" : "Fallout 3: Game of the Year Edition",
-  "Key" : "83"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "NyNDI921YHve64UbMfN5aCfDDVqfJTEOdXp7uUjBEnU%3D",
+    "price" : 6.59,
+    "retailPrice" : 19.99,
+    "savings" : 67.033517
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "rtxmZ6MlT0Q6FfHcRA3nUgUVobYIteVf8%2FkgdGWBGUY%3D",
+    "price" : 16.79,
+    "retailPrice" : 19.99,
+    "savings" : 16.008004
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2ACSlZqF0c8C8%2BkPOh5UGhJ5XKiW%2FiRn93VUcip1fmE%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "XE%2BmvPvhfGAxyPIun48Z2KUsHsic%2FhAedda%2BxKoDNeQ%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "CMfqd1o%2FqxG2qCG0tP7BLR2iJa2LHF1wMdfdhT2u4E8%3D",
+    "price" : 18.79,
+    "retailPrice" : 19.99,
+    "savings" : 6.003002
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "AdW%2FH7qeKYUGZrz0bjBQQnd2JiQqlnPG%2FAOWiO1X%2BVc%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "wIt9us1lnYPVTenWHJJhsGDIuPrIbmIaekCAJtcyHCU%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "IbEjJViTYoTlmDayLA3mNhuEhikGUiQQOAswYEWtpdI%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2sIABu5FDVPd0t1sboftg8ww2U1hAYyT9aiiRwBoGyQ%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "FXVJffDGIWxnfp1GnyvwaO1jIRZywu2wP%2FrRr24HgUA%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "5V%2FCeNNU%2BhUEWpcj009sTOX24GoZjE8JvzTv4V1dkCQ%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2BO6KIb1j%2Bb6hDIhTDHo0N7NVVdxBrLbhNk6fqR%2Fzc9Y%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fAySHTnBl7jjihhsB%2B8OEnnt%2F%2BrCwhhiuYLBCPtBbaE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "22370"
 }, {
-  "Cheapest Price" : "0.89",
   "Title" : "Airline Tycoon 2",
-  "Key" : "84"
+  "Deals" : [ {
+    "storeID" : "2",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "EMkLADO2LOTgQezb6h7adM5kW7m8TSj%2BRxx0vYyARgI%3D",
+    "price" : 3.0,
+    "retailPrice" : 9.99,
+    "savings" : 69.96997
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "PG2Qiqst8%2FMjahIZwWz%2Bv5m82UA2Hhy6eBBD9ePeVmQ%3D",
+    "price" : 8.27,
+    "retailPrice" : 9.99,
+    "savings" : 17.217217
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
+    "price" : 8.69,
+    "retailPrice" : 9.99,
+    "savings" : 13.013013
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "vOH85oyU6H2xdgDUJLux%2Bzv2xaAaalbU58%2B%2F0T6bjhk%3D",
+    "price" : 8.79,
+    "retailPrice" : 9.99,
+    "savings" : 12.012012
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2F2UBC7RHvDmXp9STEngo%2FnNGLnPDEBvsQhU0wgYxSFc%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "CzlBi3oUBj6ofYqU7x7QoTxRmMq3ggFkJ%2B%2Bbz4ab15o%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "vHVQzmF08pw1Gg%2FXIFTFi1bAcUUULFwgmN4g3DgqI9U%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ktTRoHVhEPDA7wL3Ik4BDxFqbCd287gMDimKfUPUw0g%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "fXmmp4mbCJYlyCUUL1eeUvS0ISSMmmU4qJohROirJvw%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ltqPxNX5qmI%2BVmsZn%2FHluGCgnBPEFEzqYjZhPLr0Yxs%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ndTSd8yj8D4Zy6VOKZxHixLMYJ3ICuG4AFofDHpSC%2B8%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "zDjAiyjz97Gvu0Fx%2B8xXf042Ur9nmFF4rSYPkZWKbOU%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "N25Rvl7un%2Fw5Tg5EbObzYfmhG3NHnySP1YPPChm64UM%3D",
+    "price" : 10.55,
+    "retailPrice" : 11.99,
+    "savings" : 12.010008
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "608ZxHBxOF3sGoJP3C8ksREwtS0iUXRTdJfkmMQhR0w%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "201490"
 }, {
-  "Cheapest Price" : "9.99",
   "Title" : "Warhammer 40,000: Space Marine",
-  "Key" : "85"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "skIL8Gl9BM9riCQvYFtp89RJdohN%2FNPXo6CnMCxInVQ%3D",
+    "price" : 9.99,
+    "retailPrice" : 39.99,
+    "savings" : 75.018755
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "Amnesia: The Dark Descent",
-  "Key" : "86"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pTCh9x5Rxg8oxPuAeApm6MDWpByv%2ByCo%2FxKaahgAl7Q%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "35Rgcf0qctfLNuBMuQCChUcqdL4fMiaWDOS%2FaL09d9c%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "VcM3RgnjZPNzQ6Wxr0AWZPiArkQaj9CakEc7Hjh1LzI%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "SOScTWHKmDmMJIv3qcfHPLw%2ByxdNM%2BvtN0Dq5w7Y57E%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "57300"
 }, {
-  "Cheapest Price" : "0.99",
   "Title" : "Counter-Strike",
-  "Key" : "89"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "91OY5KxvzBpAoT%2Bl13yhWJrXxM8CCVCO4tZS3AIht4c%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "10"
 }, {
-  "Cheapest Price" : "1.99",
   "Title" : "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
-  "Key" : "90"
+  "Deals" : [ {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "iMdY6HikveRUL72IJ5TyeIAzMZ8TMtwC4qZA7hH8vcs%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "XwR7uM21NaFmjHQtfg7pHsrpbXtR2%2FksfiUHdrwK3Vo%3D",
+    "price" : 16.57,
+    "retailPrice" : 19.99,
+    "savings" : 17.108554
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "ZeE8YeYvqzDHc6Iwn5NS3LnsbMFktMb%2FJtieUsrSGuQ%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "s5aEH4rPoXxhLquTQsnpItlKSHYpTFDaP%2Fn88D5LoJM%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2BoeV4As%2FDiZlZZWXp51V3Km0Y%2FAuifSeXetT6Zs5YUI%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "tUNJyVRUrEcYGF3CjJAT4834gzay4fnPB19XjBO0R1w%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "pVLX%2B1DD0cTp31VEDmiHzuN9c1Qo8NpPdaC%2BLrLtYig%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "HOFXWCO6WCRRD3DSV%2FqbM%2F8LGAMRx22%2FV2CaslitTuc%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "2BIdmF9615JPOdYzFIurbXRNMXyjkdGdd6n7en1OHYo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "0DTVIOcOFie8yn487hgtLxRivphf1fne%2FsE0phEeUds%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2Bw%2FFVivG5%2FXpWYHXCP8CMNCt6b6bcOpbLPQ2KJ3p%2Bew%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2BkruUEOzBYQiXrK73cRybahOET%2F50meYJehRPfMXoQU%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "900883"
 }, {
-  "Cheapest Price" : "1.62",
   "Title" : "Star Wars: Knights of the Old Republic",
-  "Key" : "91"
+  "Deals" : [ {
+    "storeID" : "15",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "1pxZ%2BL0o09lD2k1gYSBhddaJTJSqiSza5LtRde7guMo%3D",
+    "price" : 7.89,
+    "retailPrice" : 9.99,
+    "savings" : 21.021021
+  }, {
+    "storeID" : "23",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "GDubsN7e03b3c2B7CBKKM3LSHKNZmd7dWdnpPa9P22c%3D",
+    "price" : 8.27,
+    "retailPrice" : 9.99,
+    "savings" : 17.217217
+  }, {
+    "storeID" : "29",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "%2B3ryOunmROowTk0LERrWzMAuBLljQBcp%2Bc5FyihCDIg%3D",
+    "price" : 8.89,
+    "retailPrice" : 9.99,
+    "savings" : 11.011011
+  }, {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "YTJ%2FSqnTXNa8yBScRhOPGai6vgimnbIGKSvGMv%2BSDFI%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Q6JKcuBvYWmc%2FTrj0kAtgziBqHc1xlh3nmy%2BnbW1h90%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "bx%2BETYgUp43UGS23mEk7w4lkuGLRLRHgX7s%2Fo8ELJ%2FM%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "Rmlxxjtx%2Btl6a88oA2WXdMF3ZEPdwG2e%2BRTjoEyZ3og%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "3F80IUqEgk8aym%2BrVff4qFhH8dM7vOTX6KE48gis0fY%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "HqSdlfCv4e8IxI%2B4CsG5zTuE9t%2FYiEH%2Bux7QR1uFGGs%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "32370"
 }, {
-  "Cheapest Price" : "5.99",
   "Title" : "Super Street Fighter IV Arcade Edition",
-  "Key" : "92"
+  "Deals" : [ {
+    "storeID" : "27",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "NyXFv4EtsRLfQlrG%2F4ALP3O4EYISFZdFD%2Bbtb%2Fgr6Fo%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  } ],
+  "ID" : "null"
 }, {
-  "Cheapest Price" : "0.79",
   "Title" : "Half-Life 2: Episode One",
-  "Key" : "97"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "HuEzZjI2sMXFOQeF%2BYboCNA3gKf76xCPBpcK3A9tQqM%3D",
+    "price" : 7.99,
+    "retailPrice" : 7.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "380"
 }, {
-  "Cheapest Price" : "19.59",
   "Title" : "Call of Duty: Black Ops",
-  "Key" : "100"
+  "Deals" : [ {
+    "storeID" : "1",
+    "today" : [ 2024, 4, 2 ],
+    "dealID" : "BAUTek6nS3H6PqyM4miWzmLpbZ6rkPEgk8Jue2Ji8IY%3D",
+    "price" : 39.99,
+    "retailPrice" : 39.99,
+    "savings" : 0.0
+  } ],
+  "ID" : "42700"
 } ]
