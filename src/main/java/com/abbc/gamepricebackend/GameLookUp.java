@@ -9,7 +9,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-
 import java.io.File;
 import java.io.IOException;
 import java.net.URI;
@@ -21,11 +20,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 //
+//Important Note:
+// Mapss are necessary for sending data through json format through https request
 public class GameLookUp {
     public static void main(String[] args) {
-//        CONNECTION TO THE DATABASE
-//        Create Formatted String that Gets Games 1-100 of the API to store within the JSON file that can be
-//        sent to a mongodb data base
 
         List<Map<String, Object>> gameList = new ArrayList<>();
         ObjectMapper mapper = new ObjectMapper();
@@ -62,74 +60,82 @@ public class GameLookUp {
 
     }
 
-//function that makes the indivdual request of 25 game intervals and then breaks the 25 games
-    private  static void getAPIData(String apiURL, List<Map<String, Object>> gameList ){
+    /**
+     * Makes the request to the backend spring REST api for writing to the MONGODB database
+     * this is essential for adding in the games in the first time; afterwards the
+     * functions will need to be updated for updating the game data only for the deals data
+     *
+     * @param gameData game data for an indivdual game object
+     *///
 
+    private static void writeToDataBase(Map<String, Object> gameData){
 
         HttpClient client = HttpClient.newHttpClient();
+        String requestBody;
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.registerModule(new JavaTimeModule());
+
+
+        try {
+            requestBody = mapper.writeValueAsString(gameData);
+            HttpRequest backEndApi = HttpRequest.newBuilder()
+                    .uri(URI.create("http://localhost:8080/api/v1/games/add_game"))
+                    .header("Content-Type", "application/json")
+                    .POST(HttpRequest.BodyPublishers.ofString(requestBody))
+                    .build();
+
+            HttpResponse<String> bresponse = client.send(backEndApi, HttpResponse.BodyHandlers.ofString());
+
+            // Output the status code and response body
+            System.out.println("Response status code: " + bresponse.statusCode());
+            System.out.println("Response body: " + bresponse.body());
+
+        } catch (IOException | InterruptedException e) {
+            System.out.println("ERROR GETTING DATA FROM API CALL");
+
+            throw new RuntimeException(e);
+        }
+
+    }
+
+
+
+    /**
+     * Makes the request to the api, extracts the data for each individual game object
+     * the response from the api is stored within the @rootNode,
+     * each game object within this response is then parsed out with the @value,
+     * inside each of the @value all of its  deals are extracted and placed within the @dealsNode,
+     * each individual deal is then given a time stamp and turned in an individual deal objects
+     * @param apiURL api url for a list of games based on the ids determined the api
+     * @param gameList the second number to add
+     *///
+    private  static void getAPIData(String apiURL, List<Map<String, Object>> gameList ){
+        HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(apiURL)) // Replace with your API URL
+                .uri(URI.create(apiURL))
                 .build();
 
-
         ObjectMapper mapper = new ObjectMapper();
+
         mapper.registerModule(new JavaTimeModule());
 
         try {
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
             JsonNode rootNode = mapper.readTree(response.body());
-//            List will be used to write all of the game items into a json file all at once
-
             rootNode.fields().forEachRemaining(entry -> {
-
-//                Extraction of the game data fromthe response body that was covnerted to a JSONode
                 JsonNode value = entry.getValue();
 //                Deals is a list with in the
                 JsonNode dealsNode = value.get("deals");
                 List<Deal> deals = null;
-
                 if (dealsNode != null && dealsNode.isArray()){
-                    // Convert 'dealsNode' to a List of Deal objects
-
-//                    After deals is created from the data extraced from the deals node
-//                    each deal from each respective store has the date set to the date of when the api was run
                    deals = mapper.convertValue(dealsNode, new TypeReference<List<Deal>>() {});
                     for (Deal deal : deals) {
                        deal.setDate();
                     }
                 }
-//                System.out.println("JSON OBJECT:");
-//                System.out.println(value.get("deals"));
 
                 Map<String, Object> gameData = processGame(value,deals);
-//              BACKEND API CALL:
-//
-                String requestBody;
-
-//Create new function here
-                System.out.println("WRITING TO DATABASE");
-
-                try {
-                    requestBody = mapper.writeValueAsString(gameData);
-                    System.out.println("WRITING");
-                    System.out.println(gameData.toString());
-                    HttpRequest backEndApi = HttpRequest.newBuilder()
-                            .uri(URI.create("http://localhost:8080/api/v1/games/add_game"))
-                            .header("Content-Type", "application/json")
-                            .POST(HttpRequest.BodyPublishers.ofString(requestBody))
-                            .build();
-
-                    HttpResponse<String> bresponse = client.send(backEndApi, HttpResponse.BodyHandlers.ofString());
-
-                    // Output the status code and response body
-                    System.out.println("Response status code: " + bresponse.statusCode());
-                    System.out.println("Response body: " + bresponse.body());
-
-                } catch (IOException | InterruptedException e) {
-                    System.out.println("ERROR GETTING DATA FROM API CALL");
-
-                    throw new RuntimeException(e);
-                }
+                writeToDataBase(gameData);
                 gameList.add(gameData);
             });
 
@@ -139,8 +145,13 @@ public class GameLookUp {
 
     }
 
-//    Creates a new object that will be able to be stored with in the formatted JSON file that can
-//    be used to map these objects into components
+
+    /**
+     * Creates a map for an individual game object that contains data for the Game object
+     * and Deals with time stamps added to it
+     * @param gameNode data for the individual game extracted from the cheap shark api
+     * @param deals list of deals for an individual game object
+     *///
     private static Map<String, Object> processGame(JsonNode gameNode,  List<Deal> deals) {
 
         String title = gameNode.get("info").get("title").asText();

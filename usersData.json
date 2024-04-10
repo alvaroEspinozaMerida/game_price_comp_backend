@@ -2,21 +2,21 @@
   "steamAppID" : "35320",
   "deals" : [ {
     "storeID" : "2",
-    "date" : [ 2024, 4, 4 ],
+    "date" : [ 2024, 4, 9 ],
     "dealID" : "smEix0i2AFa3m%2BxY28aa4gTOmTJ2paHkomR8pV%2Fdpn0%3D",
     "price" : 2.63,
     "retailPrice" : 6.99,
     "savings" : 62.374821
   }, {
     "storeID" : "15",
-    "date" : [ 2024, 4, 4 ],
+    "date" : [ 2024, 4, 9 ],
     "dealID" : "Uj52tyzs0gsf5BI6QD3jxSrZS2iakSd4Bv8txbAhO94%3D",
     "price" : 7.86,
     "retailPrice" : 14.99,
     "savings" : 47.565043
   }, {
     "storeID" : "1",
-    "date" : [ 2024, 4, 4 ],
+    "date" : [ 2024, 4, 9 ],
     "dealID" : "qA2rgBmr1ghSJ4jkErABh61aHfE9GzZcEfXWNgmFYNE%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -27,7 +27,7 @@
   "steamAppID" : "71000",
   "deals" : [ {
     "storeID" : "1",
-    "date" : [ 2024, 4, 4 ],
+    "date" : [ 2024, 4, 9 ],
     "dealID" : "kyyXFup36h03rmoY%2BruepfkobNiDU7g%2BOwYaIHbfVAA%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -38,7 +38,7 @@
   "steamAppID" : "18120",
   "deals" : [ {
     "storeID" : "1",
-    "date" : [ 2024, 4, 4 ],
+    "date" : [ 2024, 4, 9 ],
     "dealID" : "zrK7O7Xn368%2B5zXU%2B32aPdn1GSvWxy9xIrgdfi4uxUg%3D",
     "price" : 9.99,
     "retailPrice" : 9.99,
