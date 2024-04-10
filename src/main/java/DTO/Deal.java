@@ -12,19 +12,12 @@ import java.time.LocalDate;
 @AllArgsConstructor
 public class Deal {
     private String storeID;
-
     LocalDate date;
     private String dealID;
-
     double price;
     double retailPrice;
-
     double savings;
-
     public void setDate(){
         date = LocalDate.now();
     }
-
-
-
 }
