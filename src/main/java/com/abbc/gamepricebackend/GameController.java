@@ -2,6 +2,8 @@ package com.abbc.gamepricebackend;
 
 import DTO.Game;
 import lombok.AllArgsConstructor;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
@@ -12,8 +14,8 @@ import java.util.Optional;
 public class GameController {
     private final GameService gameService;
     @GetMapping("/show_all")
-    public List<Game> fetchAllGames(){
-        return gameService.getAllGames();
+    public ResponseEntity<List<Game>> fetchAllGames(){
+        return new ResponseEntity<>(gameService.getAllGames(), HttpStatus.OK);
     }
 
     @PostMapping("/add_game")
