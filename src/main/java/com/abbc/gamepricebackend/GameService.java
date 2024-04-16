@@ -27,5 +27,7 @@ public class GameService {
 
     public Optional<Game> findGameByTitle(String title){ return  gameRepository.findGameByTitle(title); }
 
+    public Optional<Game> findGameByID(long id){ return  gameRepository.findGameBySteamAppID(id); }
+
 
 }

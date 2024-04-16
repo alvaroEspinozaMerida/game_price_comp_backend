@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
+@CrossOrigin(origins = {"http://localhost:5173/"})
+
 @RestController
 @RequestMapping("/api/v1/games")
 @AllArgsConstructor
@@ -23,8 +25,14 @@ public class GameController {
         return gameService.addGame(newGame);
     }
 
-    @GetMapping("/find_game")
-    public Optional<Game> findGameByTitle(@RequestBody String title) {return gameService.findGameByTitle(title);}
+    @GetMapping("/find_game_by_title")
+    public Optional<Game> findGameByTitle(@RequestParam String title) {return gameService.findGameByTitle(title);}
+
+    @GetMapping("/find_game_by_id")
+    public Optional<Game> findGameByID(@RequestParam long id) {
+        System.out.println("ID:"+id);
+        return gameService.findGameByID(id);
+    }
 
 
 }

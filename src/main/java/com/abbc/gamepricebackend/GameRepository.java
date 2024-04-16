@@ -10,6 +10,4 @@ public interface GameRepository extends MongoRepository<Game,String>{
     Optional<Game> findGameBySteamAppID(long id );
     Optional<Game> findGameByTitle(String title);
 
-
-
 }
