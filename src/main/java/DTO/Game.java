@@ -20,4 +20,11 @@ public class Game {
     List<Deal> deals = new ArrayList<>();
 
 
+
+    public void addNewDeal(Deal newDeal){
+        deals.add(newDeal);
+    }
+
+
+
 }

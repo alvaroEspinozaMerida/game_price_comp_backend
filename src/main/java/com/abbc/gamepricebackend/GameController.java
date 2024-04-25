@@ -1,5 +1,6 @@
 package com.abbc.gamepricebackend;
 
+import DTO.Deal;
 import DTO.Game;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -33,6 +34,16 @@ public class GameController {
         System.out.println("ID:"+id);
         return gameService.findGameByID(id);
     }
+
+//    TODO: CREATE JUNIT TEST
+    @PutMapping("/update_deal/{id}")
+    public ResponseEntity<Game> updateGameDeals(@PathVariable long id , @RequestBody Deal deal){
+        return gameService.updateGameDeals(id, deal);
+    }
+
+
+
+
 
 
 }

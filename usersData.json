@@ -2,21 +2,21 @@
   "steamAppID" : "35320",
   "deals" : [ {
     "storeID" : "2",
-    "date" : [ 2024, 4, 13 ],
+    "date" : [ 2024, 4, 25 ],
     "dealID" : "smEix0i2AFa3m%2BxY28aa4gTOmTJ2paHkomR8pV%2Fdpn0%3D",
     "price" : 6.99,
     "retailPrice" : 6.99,
     "savings" : 0.0
   }, {
     "storeID" : "15",
-    "date" : [ 2024, 4, 13 ],
+    "date" : [ 2024, 4, 25 ],
     "dealID" : "Uj52tyzs0gsf5BI6QD3jxSrZS2iakSd4Bv8txbAhO94%3D",
     "price" : 7.86,
     "retailPrice" : 14.99,
     "savings" : 47.565043
   }, {
     "storeID" : "1",
-    "date" : [ 2024, 4, 13 ],
+    "date" : [ 2024, 4, 25 ],
     "dealID" : "qA2rgBmr1ghSJ4jkErABh61aHfE9GzZcEfXWNgmFYNE%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -27,7 +27,7 @@
   "steamAppID" : "71000",
   "deals" : [ {
     "storeID" : "1",
-    "date" : [ 2024, 4, 13 ],
+    "date" : [ 2024, 4, 25 ],
     "dealID" : "kyyXFup36h03rmoY%2BruepfkobNiDU7g%2BOwYaIHbfVAA%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -38,11 +38,151 @@
   "steamAppID" : "18120",
   "deals" : [ {
     "storeID" : "1",
-    "date" : [ 2024, 4, 13 ],
+    "date" : [ 2024, 4, 25 ],
     "dealID" : "zrK7O7Xn368%2B5zXU%2B32aPdn1GSvWxy9xIrgdfi4uxUg%3D",
     "price" : 9.99,
     "retailPrice" : 9.99,
     "savings" : 0.0
   } ],
   "title" : "Unstoppable Gorg"
+}, {
+  "steamAppID" : "104020",
+  "deals" : [ {
+    "storeID" : "1",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "ZCbwB7BvLaMB4cOjp5t%2B22F3R9bqjgCijPNMpipI%2BDI%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "dQyRlxTIW1ZpMjPpEflG7JayDUBkk3%2F2QrUXNGOrKWM%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Storm in a Teacup"
+}, {
+  "steamAppID" : "202530",
+  "deals" : [ {
+    "storeID" : "23",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "vIARkS5kEUKRS%2BvSzaUtU5pT1TAbmAFpqZWw5fHYOoI%3D",
+    "price" : 8.19,
+    "retailPrice" : 9.99,
+    "savings" : 18.018018
+  }, {
+    "storeID" : "27",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "1UEFXMtXu1iin5WYGne%2FpjcymWmkE7ZsFwsOMkVl6Ww%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "11",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "4TY5x7w5lNZTsFZnMjr5oAiGyFOhqbHOmWQzb42tlfo%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "25Swrm8PsqiB1lI1DvgC670zQvw8RVVF6LcQhI9ZLos%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "a6%2BxFMHJoOBanPIjNhsDRDuXplz1%2FlFpGPUUlMjc3uI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Sonic the Hedgehog 4 - Episode I"
+}, {
+  "steamAppID" : "null",
+  "deals" : [ {
+    "storeID" : "11",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "fs7wTXBJCKUCrdDC7qb8GFgEHCVK4pjsu1IITwx4pHI%3D",
+    "price" : 39.99,
+    "retailPrice" : 39.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Age of Empires III: Complete Collection"
+}, {
+  "steamAppID" : "null",
+  "deals" : [ {
+    "storeID" : "11",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "568yvGvcaJMLxNGdWirThSc5wflbE3xBZjN2ZkOoWt0%3D",
+    "price" : 5.99,
+    "retailPrice" : 5.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Q.U.B.E."
+}, {
+  "steamAppID" : "null",
+  "deals" : [ {
+    "storeID" : "21",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "pOlURp05c7e%2BSdehk5lYSVtnhsOkW9AZT2eNQtGyoyk%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Total War: Shogun 2 - Fall of the Samurai"
+}, {
+  "steamAppID" : "48240",
+  "deals" : [ {
+    "storeID" : "27",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "MWkbHdjCXD6eZT0Thw6%2BU8Ff17%2BejizeFzOgY8wQVzo%3D",
+    "price" : 4.75,
+    "retailPrice" : 19.99,
+    "savings" : 76.238119
+  }, {
+    "storeID" : "1",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "nMaG09jZ4jrxIAWkDe0K4wpzh63GeyBjgTKdYbiF8m8%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "13",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "zTBCMOoW%2FkTLaipPT9Gj6B7t8oTW8q0A5jazUwXxcdk%3D",
+    "price" : 5.0,
+    "retailPrice" : 19.99,
+    "savings" : 74.987494
+  }, {
+    "storeID" : "25",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "nMsMSTpmbhAKLeYbvJASFcV1nAh1wGy3%2BoVsYwXzKPs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Anno 2070"
+}, {
+  "steamAppID" : "80330",
+  "deals" : [ {
+    "storeID" : "2",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "EA%2FRT923Zl9WynQjAMRZOQ7EV%2F5fnv99xr%2BWGPbYs1M%3D",
+    "price" : 4.95,
+    "retailPrice" : 4.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "date" : [ 2024, 4, 25 ],
+    "dealID" : "bPKcQZ4nfIIVyQsjslYeph2rS8uT1XK6KuwQv8e6QiA%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "The Blackwell Legacy"
 } ]

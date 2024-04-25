@@ -33,7 +33,7 @@ public class GameLookUp {
 
 
 //        Call to the API has a limit of 25 game ids
-        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=1,2,3";
+        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=1,2,3,4,5,6,7,8,9,10,11,12,13,15";
         String gameIDs = "";
 //        for(int i = 0; i <= 1 ; i ++){
 //
