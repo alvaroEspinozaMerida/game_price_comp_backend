@@ -1,4 +1,5 @@
 package DTO;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
@@ -17,7 +18,13 @@ public class Game {
     private String title;
     @Id
     private long steamAppID;
+    @JsonProperty("thumb")
+    private String thumb;
     List<Deal> deals = new ArrayList<>();
+    @JsonProperty("screenshots")
+    List<String> screenshots = new ArrayList<>();
+
+
 
 
 

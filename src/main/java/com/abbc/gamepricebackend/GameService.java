@@ -35,7 +35,7 @@ public class GameService {
 
     public ResponseEntity<Game> updateGameDeals(long id , Deal newDeal){
 //        Find the game in the repository
-        Game game = gameRepository.findGameBySteamAppID(id).orElseThrow(() -> new ResourceNotFoundException("Employee not exist with id"+id));
+        Game game = gameRepository.findGameBySteamAppID(id).orElseThrow(() -> new ResourceNotFoundException("Game not exist with id"+id));
 
         game.addNewDeal(newDeal);
 

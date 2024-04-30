@@ -33,7 +33,7 @@ public class GameLookUp {
 
 
 //        Call to the API has a limit of 25 game ids
-        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=1,2,3,4,5,6,7,8,9,10,11,12,13,15";
+        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=1,2,3,4,5,6";
         String gameIDs = "";
 //        for(int i = 0; i <= 1 ; i ++){
 //
@@ -59,6 +59,8 @@ public class GameLookUp {
 
 
     }
+//    Function for getting screenshots and header image
+//    on deployed project should only run once
 
     /**
      * Makes the request to the backend spring REST api for writing to the MONGODB database
@@ -75,9 +77,11 @@ public class GameLookUp {
         ObjectMapper mapper = new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
 
-
         try {
             requestBody = mapper.writeValueAsString(gameData);
+            System.out.println("BODY of request:");
+            System.out.println(requestBody);
+
             HttpRequest backEndApi = HttpRequest.newBuilder()
                     .uri(URI.create("http://localhost:8080/api/v1/games/add_game"))
                     .header("Content-Type", "application/json")
@@ -97,8 +101,6 @@ public class GameLookUp {
         }
 
     }
-
-
 
     /**
      * Makes the request to the api, extracts the data for each individual game object
@@ -122,19 +124,27 @@ public class GameLookUp {
         try {
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
             JsonNode rootNode = mapper.readTree(response.body());
+
+
             rootNode.fields().forEachRemaining(entry -> {
                 JsonNode value = entry.getValue();
 //                Deals is a list with in the
                 JsonNode dealsNode = value.get("deals");
+
+                // extract cover image and translate store to correct store name
+
                 List<Deal> deals = null;
                 if (dealsNode != null && dealsNode.isArray()){
                    deals = mapper.convertValue(dealsNode, new TypeReference<List<Deal>>() {});
                     for (Deal deal : deals) {
+//                        Translate store id to string here
+                       deal.setStoreNameByStoreID(deal.getStoreID());
                        deal.setDate();
                     }
                 }
 
                 Map<String, Object> gameData = processGame(value,deals);
+//                COMMENTED OUT MAKE SURE TO COMMENT BACK IN BEFORE DEPOY
                 writeToDataBase(gameData);
                 gameList.add(gameData);
             });
@@ -154,13 +164,61 @@ public class GameLookUp {
      *///
     private static Map<String, Object> processGame(JsonNode gameNode,  List<Deal> deals) {
 
-        String title = gameNode.get("info").get("title").asText();
-        String gameID =  gameNode.get("info").get("steamAppID").asText();
         Map<String, Object> gameData = new HashMap<>();
-        gameData.put("steamAppID",gameID);
-        gameData.put("title", title);
+        gameData.put("steamAppID",gameNode.get("info").get("steamAppID").asText());
+        gameData.put("title", gameNode.get("info").get("title").asText());
         gameData.put("deals", deals);
+        gameData.put("thumb", gameNode.get("info").get("thumb").asText());
+
+        addImages(gameData);
+
 
         return gameData;
     }
+
+    private static void addImages(Map<String, Object> gameData){
+
+        List<String> screenshots;
+        System.out.println(gameData.toString());
+
+        ObjectMapper mapper = new ObjectMapper();
+
+        String url = "https://steam-store-data.p.rapidapi.com/api/appdetails/?appids=" + (String) gameData.get("steamAppID");
+
+        System.out.println(url);
+        HttpRequest request = HttpRequest.newBuilder()
+                .uri(URI.create(url))
+                .header("X-RapidAPI-Key", "add2abae0bmshaf08b249e5ccf64p192f9fjsn13177604ae23")
+                .header("X-RapidAPI-Host", "steam-store-data.p.rapidapi.com")
+                .method("GET", HttpRequest.BodyPublishers.noBody())
+                .build();
+        HttpResponse<String> response = null;
+        try {
+            response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
+
+
+
+            JsonNode rootNode = mapper.readTree(response.body());
+            JsonNode dataNode = rootNode.path((String) gameData.get("steamAppID")).path("data"); // Navigate to the 'data' node
+            JsonNode screenshotsNode = dataNode.path("screenshots");
+
+            screenshots = new ArrayList<>();
+
+            if (screenshotsNode.isArray()) {
+                for (JsonNode screenshot : screenshotsNode) {
+                    String fullUrl = screenshot.path("path_full").asText();
+                    screenshots.add(fullUrl);
+                }
+            }
+
+            gameData.put("screenshots", screenshots);
+
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
+    }
+
 }
