@@ -1,18 +1,342 @@
 [ {
+  "steamAppID" : "8930",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/capsule_sm_120.jpg?t=1579731804",
+  "deals" : [ {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "UC0WgDfCnJeedl7IzegVYgEWWfd2yvXOo%2BPPB%2FuDK%2Bw%3D",
+    "price" : 6.99,
+    "retailPrice" : 29.95,
+    "savings" : 76.661102
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "8XdCivVnnzq11lJio0LrxOIa2%2BAeUN6UaKkY7CIb5Oo%3D",
+    "price" : 25.19,
+    "retailPrice" : 29.99,
+    "savings" : 16.005335
+  }, {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "hK%2BHGiBNEl9RXDJ7v4IO2TuqHTGyDaXln%2B4r6Y5tjo8%3D",
+    "price" : 26.28,
+    "retailPrice" : 29.99,
+    "savings" : 12.37079
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "UQUeOOzhgEtSPC2bQ%2B4%2F9v2DyucJjN%2BhZYB0BG%2BksmE%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "E07DGvVbfiDc7tV22G15EtCqWu5nsF396xxpcvVP00Q%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "storeName" : "DLGamer",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "4ZWSzdBD5nD01PpFx3Z%2F%2FUC6V8f7FeQJzxCpeE8UrNI%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "papnVn2rniLd5KGRJSmMRzu24BRZFmXMCtydlzCGRnc%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "d9215Tpp5rsK2NF52Y%2F3qoaktI1VeClIAMT0Y2lI4Do%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "29",
+    "storeName" : "2Game",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "BW9vtzZ2rayOtDUM%2F7uUUYUIavQTQX2EnxnrW26ljyg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "RaH%2BZTQr5MsPcuk3vDdB5HolEASKEVwD2BrdCvQLNV4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "SGRhfWxOc7YoCvRw4DGIk%2F5CkMJePGm9uhnbY8lh7rg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "%2FLRSLETKOoIqr24lr5xy5%2F0LKoqt0IVFjqixaXD2Geg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "storeName" : "Voidu",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "HtZHNru9DYOT1CPkI0QpRiTNklVUt43fMQbTTEwc32w%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "storeName" : "Noctre",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "fkgybKvW9CpxMJrXKhvoAT3z2gjYneY94nepE81UmK4%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Oq3TTU7EaKBuYPTUlXYJFKbCCUtqub2xNBeURsikzwg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Sid Meier's Civilization V",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/8930/ss_7082faf1b0941ddbc4ba9dab5807a9b5e77d72f9.1920x1080.jpg?t=1579731804", "https://cdn.akamai.steamstatic.com/steam/apps/8930/ss_e6f9ef54f06ffebc9445d8b29d8d2054fa3185d4.1920x1080.jpg?t=1579731804", "https://cdn.akamai.steamstatic.com/steam/apps/8930/ss_aa383406a5f2979598b543d8f272d3ac145e357a.1920x1080.jpg?t=1579731804", "https://cdn.akamai.steamstatic.com/steam/apps/8930/ss_84ee7ab3b0148a260359f8d5a78a2ab9033aa695.1920x1080.jpg?t=1579731804", "https://cdn.akamai.steamstatic.com/steam/apps/8930/ss_5dfcd65b611b35a9dc126335dca2d48ef8180106.1920x1080.jpg?t=1579731804" ]
+}, {
+  "steamAppID" : "15560",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/15560/capsule_sm_120.jpg?t=1581730007",
+  "deals" : [ {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "BOyYB3Su%2BgXfftTvwUCuFmdrsIRc4jSGq6B5qo7PX2A%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "BYt36pVk8495mF%2FMR0%2BgAMuynVElylAhXllJ%2F6%2Fa760%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "title" : "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_7ff56a502821a1f8a8de297cf910df369e2aaf42.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_f7c2f33121a9348e4ba3c88f2a437ca506603a76.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_d88ce7c0a9e39632cbc872c6226cd1680665661f.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_fad1c53d7b9930956d5d3d63c7753a61d1294f64.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_8d6116e7cfd5ebb145080e92a104a8cefad7f3c7.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_8601df6edb01192dcd00db13eefce52b1ef51897.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_4f9cb79e2b217cf371bead1c4cd015d25871d391.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_5f8d13660052e032996aac2d76eb4eed9911ac5a.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_dc04ea8ae1cf3ce68451c10d3ac3228dbe558670.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_b6a3999e5c687467134bef88a99cb01d1d0468a5.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_0554d8ba865bd889d93e10078e03c0b553c138dd.1920x1080.jpg?t=1581730007", "https://cdn.akamai.steamstatic.com/steam/apps/15560/ss_329f201ac39e5b2a42923511285015b64167e0de.1920x1080.jpg?t=1581730007" ]
+}, {
+  "steamAppID" : "47890",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/47890/capsule_sm_120.jpg?t=1615894474",
+  "deals" : [ {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "dR%2BzICKEoBuZD8fTLsP4OeesHvEqORaa%2BqsBKJif2%2FE%3D",
+    "price" : 9.99,
+    "retailPrice" : 19.99,
+    "savings" : 50.025013
+  } ],
+  "title" : "The Sims 3",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_88f5012197f111d3eb60dfe2788c1abb13bfcbed.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_445ee935552da8d81a043b9d5dd26061e9679682.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_1f0684c76b6ae09f15ff3b5d1a4cc8eee46a211c.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_a5d0065dde878697b53e90d1fb5b143b0483ac70.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_43599ea4e407561c8f1b97f48af9439a0ffce65a.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_c26eaefcabf86b4d537dcab529739df0f6968e74.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_856e0040221b996a522340e4380d279c18f39807.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_3a0473385de08d63bd41a74bdd1f6295464f5b85.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_1d3690a6f52a700d5ef0f5a0929e58674cc95eb6.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_ebb8e57138ef3bf23f301c1a7d003ab25902b862.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_52065d83b817e557e832173530752cd105d80a51.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_80c1728f0ed2aa2233bc66a96dacaca7fad601ea.1920x1080.jpg?t=1615894474", "https://cdn.akamai.steamstatic.com/steam/apps/47890/ss_0481acdb93d70cdcb2787c5cf28f168f766de4a5.1920x1080.jpg?t=1615894474" ]
+}, {
+  "steamAppID" : "46570",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/46570/capsule_sm_120.jpg?t=1676466076",
+  "deals" : [ {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ceSF%2F5ysvf8crvFi4LF1gYcSPKyaIwiGdeWbdTZq0t4%3D",
+    "price" : 0.99,
+    "retailPrice" : 9.99,
+    "savings" : 90.09009
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "NWUVBdBiDuuChtu3POmA9wguu0oThAKp7CAPOj3U%2B%2F4%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "xqLWofFMFzIqQSWvM1vORnsJjn%2BWlBsL8TIEKUWL0X0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "oTk5Vsi3fjCdSB2s0aWWlIJr37oENQPLPiChIfUhtE0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "7%2FXrQcQqlOaOquhnCKBbYjLYEoXV6V%2BpfgXy9Z4C2M8%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "dN3ze057G3fddypcxSqeLIJ6ak49crOlvB%2Fhv4kMW24%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Grotesque Tactics 2  Dungeons and Donuts",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_ffe7209186dee1d8ce82d7d124def8d6acafacf2.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_af18e7fef09002328378ba39513f4606d10be501.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_97a1999bf9b16cea840950a22e05ff83083ed4e4.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_0623fbf54ab67824d3218037ea8ac3dd14c81fef.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_c7175d57ae1d041b90425279b5b4cc0759571a47.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_965f0c096fb8c0d32507e3bb1c2ba9fc6f25083f.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_e0a1e9b2d1d8575ce651325c4c58ba04c0d08549.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_4f6601b1b4b8d8095ba9c98fb666b9d12113b697.1920x1080.jpg?t=1676466076", "https://cdn.akamai.steamstatic.com/steam/apps/46570/ss_2fe0a64856e1ec7d843cf087bb9e29a97b688389.1920x1080.jpg?t=1676466076" ]
+}, {
+  "steamAppID" : "113200",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/113200/capsule_sm_120.jpg?t=1643480517",
+  "deals" : [ {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "5BCL9aAYUPb10MeY2QE1jr6AKARh2tDnB3qb5LoTAns%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "The Binding of Isaac",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_57c7fb142d6b8f7d38ab62d9f39a055a5b2d4c4c.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_d2dd031f581bcad380ed5a6065c8908329cf1115.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_7bbb942987d0f8ce3967a5db960f6fe1f3085c3b.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_129f9fcb69ef6f7593a060eb57cf404b3e0bc31e.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_a497bfde52915ba2619f76630e7f185c4ff9f479.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_5d13a1f44e2951640d741b2c39efdc8bddb02a51.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_ab75b951c23142bc184883863bec6601995c950b.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_e06e09cbd2fa66dc8d35ede3620a4865ebf2e033.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_48c9b0bb4d079c8b58b4bb1592cdde97620060ef.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_d75b862ca5c77d13b43971ed5aa97ac140dc004f.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_441e73fc9e858864d2a28e05c0917c3e004b74e2.1920x1080.jpg?t=1643480517", "https://cdn.akamai.steamstatic.com/steam/apps/113200/ss_aa2474feabad33fc9b6669553698156bb561e544.1920x1080.jpg?t=1643480517" ]
+}, {
+  "steamAppID" : "44680",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/44680/capsule_sm_120.jpg?t=1478078216",
+  "deals" : [ {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "jD990MdZpteMChQTg2xn9JfUiQoCjvBSnXdiDaCI12A%3D",
+    "price" : 9.95,
+    "retailPrice" : 9.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "29",
+    "storeName" : "2Game",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "EXpJxQyrp62NpAnKrrTHlnNmPYdL5Yhydk6jshVdy90%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "VoOjqIbLSQqEg84w47tUXfxeJxNjn5KHya1LqHhkmA0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "RrCL4xu69MErC9YiSGDVJq1OeGp5os6W4Rc34yLNRRE%3D",
+    "price" : 10.28,
+    "retailPrice" : 12.99,
+    "savings" : 20.862202
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "YVC0NlpYZyn8GcLfkxF2txB6MwCcUddVd7Ch42R%2BNRU%3D",
+    "price" : 10.34,
+    "retailPrice" : 12.99,
+    "savings" : 20.400308
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "UFWut8kYE2wA3ciTkSYNLcISXxUoIcI5horN4ydKqSg%3D",
+    "price" : 10.39,
+    "retailPrice" : 12.99,
+    "savings" : 20.015396
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "FVWnNo3o1Ay453qrrqtCLuVMTFsTrSHFVs7IGATCuQQ%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "cWKluO7pMJ6GtdMKL2zEt2Cfuh2ljdXayv0OgwSN3jY%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "SDwXV6j4y74FZfU7KxSk5WddzoQFqQny9VSazUhc6fc%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "jfrLoDz9LuJN1iTE%2F4RC0QABNzMCN4JU0uQCza3ZLhY%3D",
+    "price" : 12.99,
+    "retailPrice" : 12.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "storeName" : "DLGamer",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ZegkWCbVEgeGvh5mv%2BAcEBSlfYANbkICTCZqmZ5PW3s%3D",
+    "price" : 13.25,
+    "retailPrice" : 15.59,
+    "savings" : 15.009622
+  } ],
+  "title" : "RACE Injection",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_2e3443d2d6cb4d3f3166a13b75a374fc1dc805a7.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_a5f880cce23e8b5d96b8cc94647ce3286f697e39.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_734f5682e5664f4ea1605125ecf693ef2d6b241d.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_f90bb409360813b6de1a79c7beb8e51dfdaa77bd.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_c4f66f5fbade96603450eb0768823033c7355b22.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_4900037c3020b137d22aee0545b5b4c485d0ea73.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_a46e78e47645db1455a22e455a3e9556c3c5210f.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_7ff0752ee348d5220d659d24073d896223d93c66.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_9a370c9d49b2ceebe478fe1892f67d3e00789a48.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_6c4eec7695b27dc64163ad53939036f41df29ad1.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_fdc92e4ceb545ff335eebac8151e8b11ac6f0dc8.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_cfe35c492c7d2c2c5cde12df5fec684159821a50.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_5fcf60fd7fcd6cd0b87c8bab84d9128421deb459.1920x1080.jpg?t=1478078216", "https://cdn.akamai.steamstatic.com/steam/apps/44680/ss_33785debf34e138db23a9fd3695bc4e06e0c0312.1920x1080.jpg?t=1478078216" ]
+} , {
   "steamAppID" : "35320",
   "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/35320/capsule_sm_120.jpg?t=1572519365",
   "deals" : [ {
     "storeID" : "2",
     "storeName" : "GamersGate",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "smEix0i2AFa3m%2BxY28aa4gTOmTJ2paHkomR8pV%2Fdpn0%3D",
-    "price" : 2.63,
+    "price" : 6.99,
     "retailPrice" : 6.99,
-    "savings" : 62.374821
+    "savings" : 0.0
   }, {
     "storeID" : "15",
     "storeName" : "Fanatical",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "Uj52tyzs0gsf5BI6QD3jxSrZS2iakSd4Bv8txbAhO94%3D",
     "price" : 7.86,
     "retailPrice" : 14.99,
@@ -20,7 +344,7 @@
   }, {
     "storeID" : "1",
     "storeName" : "Steam",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "qA2rgBmr1ghSJ4jkErABh61aHfE9GzZcEfXWNgmFYNE%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -34,7 +358,7 @@
   "deals" : [ {
     "storeID" : "1",
     "storeName" : "Steam",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "kyyXFup36h03rmoY%2BruepfkobNiDU7g%2BOwYaIHbfVAA%3D",
     "price" : 14.99,
     "retailPrice" : 14.99,
@@ -48,7 +372,7 @@
   "deals" : [ {
     "storeID" : "1",
     "storeName" : "Steam",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "zrK7O7Xn368%2B5zXU%2B32aPdn1GSvWxy9xIrgdfi4uxUg%3D",
     "price" : 9.99,
     "retailPrice" : 9.99,
@@ -62,7 +386,7 @@
   "deals" : [ {
     "storeID" : "1",
     "storeName" : "Steam",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "ZCbwB7BvLaMB4cOjp5t%2B22F3R9bqjgCijPNMpipI%2BDI%3D",
     "price" : 4.99,
     "retailPrice" : 4.99,
@@ -70,7 +394,7 @@
   }, {
     "storeID" : "30",
     "storeName" : "IndieGala",
-    "date" : [ 2024, 4, 30 ],
+    "date" : [ 2024, 5, 7 ],
     "dealID" : "dQyRlxTIW1ZpMjPpEflG7JayDUBkk3%2F2QrUXNGOrKWM%3D",
     "price" : 4.99,
     "retailPrice" : 4.99,
@@ -78,4 +402,744 @@
   } ],
   "title" : "Storm in a Teacup",
   "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/104020/ss_aedaa891625ac687ca47004321dc9a2fddf77a25.1920x1080.jpg?t=1682413571", "https://cdn.akamai.steamstatic.com/steam/apps/104020/ss_2e7aa9969fcce2647750d43e9f830dce7a47e183.1920x1080.jpg?t=1682413571", "https://cdn.akamai.steamstatic.com/steam/apps/104020/ss_199f35e0c76ceb587daa2b120aa387c7fad999b0.1920x1080.jpg?t=1682413571", "https://cdn.akamai.steamstatic.com/steam/apps/104020/ss_86253a6b320bdaa56d8c47f55e88855b676244b6.1920x1080.jpg?t=1682413571", "https://cdn.akamai.steamstatic.com/steam/apps/104020/ss_0d18bfee9642c6b34368533f8bff6c0a5b4082b8.1920x1080.jpg?t=1682413571" ]
+}, {
+  "steamAppID" : "202530",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/202530/capsule_sm_120.jpg?t=1603129605",
+  "deals" : [ {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "vIARkS5kEUKRS%2BvSzaUtU5pT1TAbmAFpqZWw5fHYOoI%3D",
+    "price" : 8.19,
+    "retailPrice" : 9.99,
+    "savings" : 18.018018
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "1UEFXMtXu1iin5WYGne%2FpjcymWmkE7ZsFwsOMkVl6Ww%3D",
+    "price" : 8.99,
+    "retailPrice" : 9.99,
+    "savings" : 10.01001
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "a6%2BxFMHJoOBanPIjNhsDRDuXplz1%2FlFpGPUUlMjc3uI%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "25Swrm8PsqiB1lI1DvgC670zQvw8RVVF6LcQhI9ZLos%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "4TY5x7w5lNZTsFZnMjr5oAiGyFOhqbHOmWQzb42tlfo%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Sonic the Hedgehog 4 - Episode I",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_3d903f996edd3eeae3b7fb866085a64b6fd84b47.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_f12f3b4d084d3bd9132ff3a6fe56bd8e3b470030.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_6ae65971604cb6a43aa665b74adef6bc232cd803.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_5524642a7b00187cb45fef0a0219df20c9cc5ab3.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_b0a651bc2e72b7bfeaadfbdfdda47394503123d4.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_9bc30835d1405281e4306fe987d79d615ab5a78b.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_e1398e9fe961a463c2dcc7b8252ae6ad31aead70.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_a03aba32cb0bb0b58c9ecc47f2724a04b6b5b39f.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_38cf451f45864a9f52c4436565417b2fe39ccee5.1920x1080.jpg?t=1603129605", "https://cdn.akamai.steamstatic.com/steam/apps/202530/ss_bace4dfd9625c5c1968e5506095d0177ca1dfbad.1920x1080.jpg?t=1603129605" ]
+} , {
+  "steamAppID" : "48240",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/48240/capsule_sm_120.jpg?t=1692033142",
+  "deals" : [ {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "MWkbHdjCXD6eZT0Thw6%2BU8Ff17%2BejizeFzOgY8wQVzo%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "nMaG09jZ4jrxIAWkDe0K4wpzh63GeyBjgTKdYbiF8m8%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "13",
+    "storeName" : "Uplay",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "zTBCMOoW%2FkTLaipPT9Gj6B7t8oTW8q0A5jazUwXxcdk%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "25",
+    "storeName" : "Epic Games Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "nMsMSTpmbhAKLeYbvJASFcV1nAh1wGy3%2BoVsYwXzKPs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Anno 2070",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_812392dba4b508b65b702c44d172ed20950ae453.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_b8937b99db3cb50fd23458eb10d89146ff25476e.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_0623982fe41d18cc2c3b11b1a82e73157327a270.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_d03e46c5809ba5692a5bfb156eb517d1ccf8d86f.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_f1ba3eb94ba2cda151bfebe0542156b462065c2a.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_688642346584fd96f7deccd5e4d9a9d0db21b895.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_3bc88888a0a95c813e6e9cb206b3860f0444d96b.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_d2808ba27ed14f7cf631c2bb40ecc4c05f6139b4.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_1d30f10feeff79ea5e87c23e33a023e6ba9783b4.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_116eb6bddf8d7a41016c920b5ed5508cc188e5e5.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_57b0a53ffc2ab0d883338fbd21804e3a75f74908.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_b6c5b865607b8fdee034ef90bb8f4f64d4baacd8.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_1a519b4da10f257b3b2ea22fba82c7afe25a306e.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_e5a0f8dd9fb831fb3bb3462cbc4257262435ade6.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_179b953f8d25a603c0ef5496260d0081b4696b46.1920x1080.jpg?t=1692033142", "https://cdn.akamai.steamstatic.com/steam/apps/48240/ss_9f1a30e59af3433a2670d76280f15af6aad90d20.1920x1080.jpg?t=1692033142" ]
+}, {
+  "steamAppID" : "80330",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/80330/capsule_sm_120.jpg?t=1666989655",
+  "deals" : [ {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "EA%2FRT923Zl9WynQjAMRZOQ7EV%2F5fnv99xr%2BWGPbYs1M%3D",
+    "price" : 4.95,
+    "retailPrice" : 4.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "bPKcQZ4nfIIVyQsjslYeph2rS8uT1XK6KuwQv8e6QiA%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "The Blackwell Legacy",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/80330/ss_ed30b968b75215a4953959d52bb1fc04751ee251.1920x1080.jpg?t=1666989655", "https://cdn.akamai.steamstatic.com/steam/apps/80330/ss_a4a8c7242855eec8640bf92be720e73b91c27c0a.1920x1080.jpg?t=1666989655", "https://cdn.akamai.steamstatic.com/steam/apps/80330/ss_3ed86a2da20aef74f87d25331e978f02c959eaba.1920x1080.jpg?t=1666989655", "https://cdn.akamai.steamstatic.com/steam/apps/80330/ss_093d67ca6fec231a918d415af41980feb004701b.1920x1080.jpg?t=1666989655", "https://cdn.akamai.steamstatic.com/steam/apps/80330/ss_0b1588694ef2964a219675de9c1aed212804a58b.1920x1080.jpg?t=1666989655" ]
+}, {
+  "steamAppID" : "80340",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/80340/capsule_sm_120.jpg?t=1667003601",
+  "deals" : [ {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "0%2BzFWCALAO%2BTrxmPgVFT8cCQUDzQUq%2BaxZC98fjlN%2FM%3D",
+    "price" : 4.95,
+    "retailPrice" : 4.95,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "KB9QtwQHBs%2FkSHEMSz1uGpFoLRYrlpKKKiSEGElh8P4%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Blackwell Unbound",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/80340/ss_9df8e73901cda2a98d1b138790e2a6f26fca3694.1920x1080.jpg?t=1667003601", "https://cdn.akamai.steamstatic.com/steam/apps/80340/ss_f24fa4b78f8ae38c23bd8fb5ece86a11963f65be.1920x1080.jpg?t=1667003601", "https://cdn.akamai.steamstatic.com/steam/apps/80340/ss_88bfc1590b6bc58b3a7e01d7b97f3d6616da6136.1920x1080.jpg?t=1667003601", "https://cdn.akamai.steamstatic.com/steam/apps/80340/ss_2525bf02f2abdc55e4acdf053ecfe6232cc8ed6e.1920x1080.jpg?t=1667003601", "https://cdn.akamai.steamstatic.com/steam/apps/80340/ss_3350efdc531ee1c58cf611ebf4be6307a64739e0.1920x1080.jpg?t=1667003601" ]
+}, {
+  "steamAppID" : "80350",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/80350/capsule_sm_120.jpg?t=1666990103",
+  "deals" : [ {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "eoTfaYZkHecamFMQKXMKTgKyWECC%2B1%2FhwvDjxmuFJyg%3D",
+    "price" : 4.99,
+    "retailPrice" : 4.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Blackwell Convergence",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_5906cabcf05237336b3c43bc718e925fcae943f0.1920x1080.jpg?t=1666990103", "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_c32928ce78305e0089c779bbca5c101fa6be9430.1920x1080.jpg?t=1666990103", "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_42c64061f690a561e146860f18f57788f934a045.1920x1080.jpg?t=1666990103", "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_26be930352b36226d20d6ef159cc4a61d9db8ecf.1920x1080.jpg?t=1666990103", "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_392fe77f250a8c599258c6bcca12fed771283faa.1920x1080.jpg?t=1666990103", "https://cdn.akamai.steamstatic.com/steam/apps/80350/ss_ef9b80c087e8069be3405c6444746cc662f62077.1920x1080.jpg?t=1666990103" ]
+}, {
+  "steamAppID" : "80360",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/80360/capsule_sm_120.jpg?t=1666990275",
+  "deals" : [ {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "U%2BOHjMyMf65x3IbjFDN8Y%2F0AOOrt%2FioKTbI6%2BowzEf0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Blackwell Deception",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_84a38d7f391e1f8b821891f94344a383051ac653.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_2b0026d874e91f40662eba1bbc5d098177be686d.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_c6daf5064d9db34fe5d329427b9e73303128f733.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_056fec2adc9febba79d1e1c7f8d134cf9694fa9b.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_3ebb83529724e2da5796555353913a342a656bb4.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_f2184109b1d3c0a481e4263c5582199f2a04ae28.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_db09ed216ae2ccea2c277718f47473b1e5c1c993.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_28cf301f5bab3daff0ac9c584b9ce4a2425f4faf.1920x1080.jpg?t=1666990275", "https://cdn.akamai.steamstatic.com/steam/apps/80360/ss_6de73da08ab95b462245cbe2b0d2fc1533caff20.1920x1080.jpg?t=1666990275" ]
+}, {
+  "steamAppID" : "55230",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/55230/capsule_sm_120.jpg?t=1706618956",
+  "deals" : [ {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "PM0dgo%2BBn3aULqTE6OGcYqfJchLm4aQdeKHjVRY%2B8O0%3D",
+    "price" : 3.49,
+    "retailPrice" : 9.99,
+    "savings" : 65.065065
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "IFN5NbpTgE5uvtlaFQHHJXSY9EfIxhs8H2pMcw8Oli0%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "gwDwc6Wfhzvjs9Rxi2L8%2FxmWqVIL2%2FmY3XTW%2FLy%2Bvdc%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "storeName" : "Voidu",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "%2Bvk3hJLoWwiyVPu6XLV2HdrF%2BNBPG9UZTdSgocvDdPE%3D",
+    "price" : 10.79,
+    "retailPrice" : 10.79,
+    "savings" : 0.0
+  } ],
+  "title" : "Saints Row: The Third",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_e861c75bec732e56378e13209a8a402476891c67.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_718766019fb13440e16fc8801ef8a76a0d4c690a.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_3b69a3456e60b01debe1968cf26d1b7681b69d52.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_32ff71cd7d725f29c224d0554456b26fc532c4da.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_744ad5d262b950ac37084d48fdbd48ca72302dcc.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_c750d085934a63a4cbc88aeca3cf7a03dc27c3fb.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_d0c4db38537c48c2273a58e20b2c72148fbd05d8.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_f46436d0230eedaf9512b178f52be5d44b791143.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_53b38a56faf2ff6d2ca38cb16a52eec1ec5ceb83.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_a3b0bc7cb906da1ae40c3869b0048eacf0b54411.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_f16ddb3751130e0a966ee0c740f3fdae1244a10c.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_fc7d27cb8606783dedadfb64ba2ed0a7522ad454.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_4adedeba4d4dfe843a8c60f5fb7124e5299ea52a.1920x1080.jpg?t=1706618956", "https://cdn.akamai.steamstatic.com/steam/apps/55230/ss_283fe59efe783826915bd93847a1abe4efd1a0b3.1920x1080.jpg?t=1706618956" ]
+} , {
+  "steamAppID" : "67370",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/67370/capsule_sm_120.jpg?t=1568914450",
+  "deals" : [ {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "l%2BF3%2BbPpmiia0%2F%2FmwSXARUJrAYxccK9U0A2H6xpGj%2FQ%3D",
+    "price" : 5.99,
+    "retailPrice" : 29.99,
+    "savings" : 80.026676
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "MjAcYLEGEIqkt2q7uaX6B0YI%2FW5ipTZBT9rY4fi0f1A%3D",
+    "price" : 25.19,
+    "retailPrice" : 29.99,
+    "savings" : 16.005335
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "h9GE9EYxxeYzi6G7ZEvoZSKmWOdAi%2FspBfbQYigH9PM%3D",
+    "price" : 26.99,
+    "retailPrice" : 29.99,
+    "savings" : 10.003334
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "lI2B7fKqoZFGVO4J5vLDLT%2Fpal4ZybNvj%2ByKBdZMr1Y%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "WfNksbCoxxGpzxvsXLXlSQjjLJNrvTF4f%2BVvEzIiTlc%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "cxjvCKF9Kp83%2FLT1ha0VtZM9knHpqukbs54AXH3VG3g%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "qGaYtYZlx48QG6THenNa6ndOrfkczxQxm%2BUX4EASaXg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "8yd%2Fs0C0kEYtj7cu%2Foq40PV%2Bnvd7mLPaQxT%2BPrUxWJs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "storeName" : "Noctre",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ALKa28Lp%2FPQGAt7T80hTdDO6QLgLuFruZ1YDvDxXiSg%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Gw07xEWR3kLJw%2B%2FA0YwVol5P%2Bq4a5AQMqzORozO75Ec%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "storeName" : "DLGamer",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Z5PH7zMQfwsb4NiSI3rZ7d2GyA2vdpTvrXgEb2bxu74%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "24",
+    "storeName" : "Voidu",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "gKwDNs26abigRNGjuee3I08c5Mp2LnQ2izXePBGZ%2Fcs%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "4VGW4ix4gorvRoqMdDrM%2FGPsr4Bfnb7Y7CsjdKijUFU%3D",
+    "price" : 29.99,
+    "retailPrice" : 29.99,
+    "savings" : 0.0
+  } ],
+  "title" : "The Darkness II",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_5d39af28725c759d6c2feb3f2da01968806e68d9.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_282ccfcd2bb1fd2f7d5b26cb504404fed7266805.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_93fcd5f8c5bcb14cfa384071a7488b100c8f13ac.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_f1564262919740f0b42a830aae5bd81f652ef3bd.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_ae8f4c100922cd76eed4798aa706d944a9a78f87.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_4bbd95b4154c945caf287bb7d48a8bb79e872b2b.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_8091aa96dc0cf888afbaa7a30a018d9a398fdbb7.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_541f2611cc2a1072a3aff5635a765fe78147e186.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_dfaf1ac092021fc7968da87f5a91d17c0fc0c4c6.1920x1080.jpg?t=1568914450", "https://cdn.akamai.steamstatic.com/steam/apps/67370/ss_c116b201c3364bfc3c013a3a65706e365cdd7a14.1920x1080.jpg?t=1568914450" ]
+}, {
+  "steamAppID" : "204030",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/204030/capsule_sm_120.jpg?t=1577393131",
+  "deals" : [ {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "fA%2FjCg00rI%2FYI3jcw7te8XkGgfhmaTHcTOwLHQNMvMY%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "wD9iVW7hO1wYDa%2BqHKeLfRs4M25%2Bmm5b4RPUo7uUlqk%3D",
+    "price" : 9.99,
+    "retailPrice" : 9.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Fable - The Lost Chapters",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_69b46801be70bcbca3d4e74bc1d11f0e094987a1.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_002d3e662b8e79a75edd3fe4f2c0882663d37459.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_574a021ae997db78ea0c939196a73992c4a66bad.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_6c7b077f477725b3096d97a488c2d0107b59e44b.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_e5cb05397b93cf2ad604503725d24da5aefd9531.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_330d4803191f3ddbc84d0f6a02e00177d006305d.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_a9d0e937a1180003083bb9214fcf5efe876c03a3.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_0bea2ccaac42f706085d20e754b0e86d6df441aa.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_ee3dad64cde31d73d2a76fb85d8f2a24fdd09e23.1920x1080.jpg?t=1577393131", "https://cdn.akamai.steamstatic.com/steam/apps/204030/ss_457249a76b9e5db73e477d9d7a88ab79875b1aab.1920x1080.jpg?t=1577393131" ]
+}, {
+  "steamAppID" : "201870",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/201870/capsule_sm_120.jpg?t=1698435866",
+  "deals" : [ {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "x9WrRag3Y0%2BSSMGh4PXLWxgY60RpZ71boNFNFT9wukU%3D",
+    "price" : 5.99,
+    "retailPrice" : 19.99,
+    "savings" : 70.035018
+  }, {
+    "storeID" : "13",
+    "storeName" : "Uplay",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "aNN7CyJMrQK8FUB4eZi3g3f2MZorzUK%2Bkhxi%2BzZSlgE%3D",
+    "price" : 6.0,
+    "retailPrice" : 19.99,
+    "savings" : 69.984992
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "UMxhbhtJhytwW5Sulk8qJrtYpHrjlnmsnYnZENK8oEk%3D",
+    "price" : 17.99,
+    "retailPrice" : 19.99,
+    "savings" : 10.005003
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "1eUZNmzp2DIU1xOcNlnB607xiNhVOv6EaCJHJ4jrDW0%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "%2B1vW63o6PTZHnUuygWOkzU5kgkeRsdPqmlpmY24WhDY%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Assassin's Creed Revelations",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_28cb1321a03e8cf2af89b2f9ab441380b093db1e.1920x1080.jpg?t=1698435866", "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_08575a6a8651d8e9b159153cc0a8175b7b181345.1920x1080.jpg?t=1698435866", "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_4f86082d2db3066c72a9b80704c7a35d4ad2773b.1920x1080.jpg?t=1698435866", "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_caf06afa8adcfeb836a588e8998ae0bfa0ffd3e1.1920x1080.jpg?t=1698435866", "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_3b1495334d48db2058794e7f9def1667a98d35c1.1920x1080.jpg?t=1698435866", "https://cdn.akamai.steamstatic.com/steam/apps/201870/ss_6b2c6d8df87edbacd491d15869df946062612c8e.1920x1080.jpg?t=1698435866" ]
+}, {
+  "steamAppID" : "57740",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/57740/capsule_sm_120.jpg?t=1696413206",
+  "deals" : [ {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "OqHnwbQLC%2FUqrmXYbBcWbDYNOOOtdbyFVDDjlccpHzg%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ZArmegmgCHazuXT6PrZMvexSCDPQEVQ0%2FNWvdvXZPQQ%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Ko7RB3nhBvcIyQnGSC5vJSn42fHpNXJzWwUmsTIv74Y%3D",
+    "price" : 5.0,
+    "retailPrice" : 19.99,
+    "savings" : 74.987494
+  }, {
+    "storeID" : "29",
+    "storeName" : "2Game",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "fjsftqVjm%2BzA%2FW8CuzOzcOXd24Cs%2Frp6FaMAVZtHRT8%3D",
+    "price" : 16.19,
+    "retailPrice" : 19.99,
+    "savings" : 19.009505
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "psZK4n1X6zmFCgl44T%2BWAJCtoGxLxgYowr4c8qCopGQ%3D",
+    "price" : 16.79,
+    "retailPrice" : 19.99,
+    "savings" : 16.008004
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "3Dh7R3n0LPTK%2F6W2E94ZB1FEYcVcpOMzknE3EnR9QKA%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "0BtqRq29TdMnWOZZyl7OO5QyGer6Hky4CUYGWy3Gwbo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "cNKAYUxK%2FH5n7BZ5IeNu83lr8LcJAFuKtOj1N%2BscHl4%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "oQ3cSTsX%2Fi%2BWlc%2B%2BMQmYyF63fMLAQQ2HYH%2BYsCCXJSs%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "MO8Fgk5ayv%2FPv3TwkF3IwoOwxOZ%2Bg7Hf5tljy5%2F5MvA%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Yah4ZC8m6hPc%2FMXIycrtrqqHH9ZD4rBq15MkJwTrBhw%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Jagged Alliance - Back in Action",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_4417a4d7b30836f9235c61fc6b1b385f6a7be973.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_913ce26a2e63132aced07389d8afee4488e734f0.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_6f3109f1729600e34a560e8e4839f63623580c3b.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_c147463e3a22a480f8d52787271d206d1cd42481.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_4483f89de47df0d736dfb86900ed2643a5e59322.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_ccd628990b7a2fb8a37958e3b97c78114d52c2e8.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_a2567b9ce07731850f3222a2d5a776e8764da843.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_887bc71b68e26cb0e3f1e7e23e59927f8f751b0c.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_a7316f69417fa386d0b03d430f0b65e4df9f90e7.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_573bd21ba5553023bfebf5c3bf4eaf6ac190385f.1920x1080.jpg?t=1696413206", "https://cdn.akamai.steamstatic.com/steam/apps/57740/ss_ec201fa14b4a19b369f489ee492af44c0235fb17.1920x1080.jpg?t=1696413206" ]
+}, {
+  "steamAppID" : "204120",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/204120/capsule_sm_120.jpg?t=1681924074",
+  "deals" : [ {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "DNsC5AFutyCc8NpYn%2Blm94FZYnedjNPecocMhbY3Mc8%3D",
+    "price" : 4.49,
+    "retailPrice" : 19.99,
+    "savings" : 77.538769
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "xDKxFejq%2Bn%2FY8bwiQ8JS4iHtpRwrvxJ72UqLr3gmC0w%3D",
+    "price" : 4.99,
+    "retailPrice" : 19.99,
+    "savings" : 75.037519
+  }, {
+    "storeID" : "27",
+    "storeName" : "Gamesplanet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "NmPaKp0wWPTzvfFzkbXN0JH3OELACyrZrsqwGer5ov8%3D",
+    "price" : 15.99,
+    "retailPrice" : 19.99,
+    "savings" : 20.010005
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "0oatZ9PdAkJkRqhmygINvLg7pxWMBOQGeupCG4fb8Rw%3D",
+    "price" : 16.79,
+    "retailPrice" : 19.99,
+    "savings" : 16.008004
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "lv8i06bqpdd8KOsPmdjN5IF%2BrdDPPQMfkPesD7RJbas%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "29",
+    "storeName" : "2Game",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "SkGqfFPUnpK0VS%2FqljYpbg73VeGC8XjGnuWiF%2Fatxq8%3D",
+    "price" : 17.79,
+    "retailPrice" : 19.99,
+    "savings" : 11.005503
+  }, {
+    "storeID" : "24",
+    "storeName" : "Voidu",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "7O6PRI89nHQAPPiK1%2BVatpna7Pc5KNM5xY31KhAUvK8%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "c%2BfxTMGcLeGtKdSiLzDNBOwBvlOTgdonL5%2BHzte3Adg%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "2Pql7PQK1Hl4yqgLa3FHG9fjjpdyOMETMz%2Bu4rKuhNE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "34",
+    "storeName" : "Noctre",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "YDsqZJaywN6lyMEIZaR4Z9%2BW8pI1WdeO0pro1tnALLE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "35",
+    "storeName" : "DreamGame",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "5sBfhNMjqCyJBXPXMXTSNpLafiM37hz9lFz7Pq%2FK88U%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "YpMf78Mii0tZP0%2BsZpGX%2Fjyr4fcQVYlkyk9VKSu2r1o%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ENyH6aP6yGqEVVHzJ7PGY%2FoUgP6iy1ssbQeg3al17eE%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "storeName" : "GOG",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ZvyzPWWOmCPcyNdVMIYFwh7CoZhOpdRFutfZg1%2FnoX4%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ndQGbdc0tfqWT4vl%2BvJS6CmYxkSmmwiTNXDkpbqfOTo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "title" : "LEGO Harry Potter: Years 5-7",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/204120/ss_9571936e1ab0d8ae1477c577378e616cbfa33f19.1920x1080.jpg?t=1681924074", "https://cdn.akamai.steamstatic.com/steam/apps/204120/ss_9fcf9aeb21eb854b48b7cf6aec60bc6c33f9974c.1920x1080.jpg?t=1681924074", "https://cdn.akamai.steamstatic.com/steam/apps/204120/ss_334701043821f30d6d389aa82ed6a9303a291875.1920x1080.jpg?t=1681924074", "https://cdn.akamai.steamstatic.com/steam/apps/204120/ss_27a58ce212df65742dfb4eac42bb78bef23b7da0.1920x1080.jpg?t=1681924074", "https://cdn.akamai.steamstatic.com/steam/apps/204120/ss_67458b4151770ac9149a7b71dd886993c0b4be29.1920x1080.jpg?t=1681924074" ]
+}, {
+  "steamAppID" : "201290",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/201290/capsule_sm_120.jpg?t=1714568728",
+  "deals" : [ {
+    "storeID" : "7",
+    "storeName" : "GOG",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "PDaBBFVc5wqtW5%2FoE%2FVeS%2Bm5aS%2Fn8KgkLsedz5O6i64%3D",
+    "price" : 3.99,
+    "retailPrice" : 19.99,
+    "savings" : 80.04002
+  }, {
+    "storeID" : "30",
+    "storeName" : "IndieGala",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "g3jdamxUBgL1otTZ67MzUcXR9aTDcgqwCBDZqi6noOs%3D",
+    "price" : 5.18,
+    "retailPrice" : 19.99,
+    "savings" : 74.087044
+  }, {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "sPKKO8Vs%2Bt%2BWFrLPQnqboXt91A3boUHlR6feb6KPnLQ%3D",
+    "price" : 14.69,
+    "retailPrice" : 19.99,
+    "savings" : 26.513257
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Ck%2BsXq0J7kCeH6iGhTLgyt4bjHklgVGxNwuiOfxsQLw%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "iNr09%2Bpvq1hYDhTt29WoEv%2BfFqa9XH3GEhJgN7GGf3o%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "XwqnvW7o3iuTLxdosKyIxlY2lHmS9tCl0GISL7Ihfpo%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "OZkGThnVlnnSZHA7b4rLbOpW9O3jvFkUObyr6n2cQSk%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  } ],
+  "title" : "Sins of a Solar Empire: Trinity",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_3af5548da5f82b4b97167d47b8226544e50b390c.1920x1080.jpg?t=1714568728", "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_d6ad3edd87b767d89cfe286a91683a532b165579.1920x1080.jpg?t=1714568728", "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_b5ee138aa392b6ca5044459f2ae0676c55768b43.1920x1080.jpg?t=1714568728", "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_d1b44e2b28b424bd4c0df3891aafb49bed00900f.1920x1080.jpg?t=1714568728", "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_f89ed40650240dc7b1aea177ad30a94afb55784c.1920x1080.jpg?t=1714568728", "https://cdn.akamai.steamstatic.com/steam/apps/201290/ss_fac63dccbb7bcf70d5c668a7a6c35fea90e378b3.1920x1080.jpg?t=1714568728" ]
+}, {
+  "steamAppID" : "202200",
+  "thumb" : "https://cdn.cloudflare.steamstatic.com/steam/apps/202200/capsule_sm_120.jpg?t=1693335277",
+  "deals" : [ {
+    "storeID" : "15",
+    "storeName" : "Fanatical",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "3YFtzJN9Dg%2FxMxomRHc8KbPjZa36LEgg2zdt2roF3V8%3D",
+    "price" : 15.89,
+    "retailPrice" : 19.99,
+    "savings" : 20.510255
+  }, {
+    "storeID" : "23",
+    "storeName" : "GameBillet",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "6zke%2FOF9y9Vtzh1mvEtgmJgf5EkEAx%2BhKox3lwY36bo%3D",
+    "price" : 16.59,
+    "retailPrice" : 19.99,
+    "savings" : 17.008504
+  }, {
+    "storeID" : "21",
+    "storeName" : "WinGameStore",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "1Ksn5baok%2BtpGTWFI33t%2FKZSeVQOH8GXJhuQuH4Ro44%3D",
+    "price" : 16.99,
+    "retailPrice" : 19.99,
+    "savings" : 15.007504
+  }, {
+    "storeID" : "1",
+    "storeName" : "Steam",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "xvlWISLuwH8hJAZxKrceW0xzMpgcSz4nbuH%2B55o%2BQqY%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "2",
+    "storeName" : "GamersGate",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "w0tVDEVAstcFquwgI950vrKn4NJcu10ztMUmlQUmlAs%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "3",
+    "storeName" : "GreenManGaming",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "5YmMcWKt1s0A2aoVt%2FxSmQuqtrxDJQPA98Uy2WNMmTs%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "11",
+    "storeName" : "Humble Store",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "MUU5%2FHCS8cfCz3l1kKSiNh%2FuktalDJG4Rjqz1AQJKpc%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "7",
+    "storeName" : "GOG",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "wqwewi%2BBWop5GAYP2NrXML%2FUWm%2FegDznaFvoifsFx7o%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "28",
+    "storeName" : "Gamesload",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "ZJMCZNUqucwTpH8yNsUG0A3ACsBpH3a%2BB2VY7fJ%2FJzQ%3D",
+    "price" : 19.99,
+    "retailPrice" : 19.99,
+    "savings" : 0.0
+  }, {
+    "storeID" : "33",
+    "storeName" : "DLGamer",
+    "date" : [ 2024, 5, 7 ],
+    "dealID" : "Q503kpDQfa4xgxNklDVR4Vwz05LZ27KfQu469i5dHW0%3D",
+    "price" : 20.39,
+    "retailPrice" : 23.99,
+    "savings" : 15.006253
+  } ],
+  "title" : "Galactic Civilizations II: Ultimate Edition",
+  "screenshots" : [ "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_462826ef44a108adc0856dc839e9a904c157021b.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_f538fc2378e4c0c74c50afbe801e654b0d801d3b.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_176ef3d2115e79eadc10d7c5e96778d36913be32.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_29510959e9a26e665a6e35cd816465e9ef4e506f.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_ccce369cc3a1960f35619d1ec08a48b303d77878.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_e1b422be805cd3f46dbcb92c77eb2979e267b8f3.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_4ba3848126e4337093d9192362b23e9854c5ead5.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_dea0559a97d8b5947dd5b144d34b33322b39fa83.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_501eb9323f3ca77ceae8ee6e7baf0217c8e7549a.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_2db4175a5a35a07a331c8513f47d8378487031dd.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_a8af2ae6590f35231d9636fa859862b813b431e3.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_e1fecbbc600997e5a52c078a3fa28d99871a64bc.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_7f94d4526be158670933393f726496f752cd3048.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_f4f04ff149294190addbbdac915eb3a8a3f60d82.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_3a79bfbd66824c318fb9da6a9e3b8bf0e74c4685.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_9e45ed6539cf2bcb84c9072be28d43ba6729d08c.1920x1080.jpg?t=1693335277", "https://cdn.akamai.steamstatic.com/steam/apps/202200/ss_f7cb70a17aa615f2d3fa6ab65ff516e4fd011d51.1920x1080.jpg?t=1693335277" ]
 } ]
