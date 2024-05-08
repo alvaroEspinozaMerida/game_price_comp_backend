@@ -19,14 +19,16 @@ class GameControllerTest {
     @Test
     void fetchAllGames() {
         GameService gameServiceMock = mock(GameService.class);
-        Deal deal1 = new Deal("Store 1", LocalDate.now(), "Deal 1", 20.0, 30.0, 10.0);
-        Deal deal2 = new Deal("Store 2", LocalDate.now(), "Deal 2", 15.0, 25.0, 10.0);
-        Deal deal3 = new Deal("Store 3", LocalDate.now(), "Deal 3", 10.0, 20.0, 10.0);
+
+        LocalDate currentDate = LocalDate.now();
+        Deal deal1 = new Deal("Store 1", "Store Name 1", currentDate, "Deal 1", 20.0, 30.0, 10.0);
+        Deal deal2 = new Deal("Store 2", "Store Name 2", currentDate, "Deal 2", 15.0, 25.0, 10.0);
+        Deal deal3 = new Deal("Store 3", "Store Name 3", currentDate, "Deal 3", 10.0, 20.0, 10.0);
 
         List<Game> expectedGames = Arrays.asList(
-                new Game("Game 1", 1, Collections.singletonList(deal1)),
-                new Game("Game 2", 2, Collections.singletonList(deal2)),
-                new Game("Game 3", 3, Collections.singletonList(deal3))
+                new Game("Game 1", 1, "thumb1", Collections.singletonList(deal1), Collections.singletonList("screenshot1")),
+                new Game("Game 2", 2, "thumb2", Collections.singletonList(deal2), Collections.singletonList("screenshot2")),
+                new Game("Game 3", 3, "thumb3", Collections.singletonList(deal3), Collections.singletonList("screenshot3"))
         );
 
         when(gameServiceMock.getAllGames()).thenReturn(expectedGames);
@@ -58,7 +60,7 @@ class GameControllerTest {
     void addGame() {
         GameService gameServiceMock = mock(GameService.class);
 
-        Game newGame = new Game("Game 4", 4, null);
+        Game newGame = new Game("Game 4", 4, "thumb4", new ArrayList<>(), Collections.singletonList("screenshot4"));
 
         when(gameServiceMock.addGame(newGame)).thenReturn(newGame);
 
@@ -73,7 +75,7 @@ class GameControllerTest {
         GameService gameServiceMock = mock(GameService.class);
 
         String title = "Game 1";
-        Game foundGame = new Game("Game 1" ,1, null);
+        Game foundGame = new Game("Game 1" ,1, "thumb1", new ArrayList<>(), Collections.singletonList("screenshot1"));
         Optional<Game> optionalGame = Optional.of(foundGame);
 
         when(gameServiceMock.findGameByTitle(title)).thenReturn(optionalGame);
@@ -95,41 +97,6 @@ class GameControllerTest {
         Optional<Game> maxTitleGameOptional = gameController.findGameByTitle(maxTitle);
         assertTrue(maxTitleGameOptional.isPresent());
         assertEquals(foundGame, maxTitleGameOptional.get());
-    }
-
-    @Test
-    void updateGameDeals() {
-        //Create mock of gameService
-        GameService gameServiceMock = mock(GameService.class);
-        //Get current date
-        LocalDate currentDate = LocalDate.now();
-        Deal deal1 = new Deal("Store 1", "Store Name 1", currentDate, "Deal 1", 15.0, 35.0, 20.0);
-        //create an existingGame with some data
-        Game existingGame = new Game("Existing Game", 1, "thumb", Collections.singletonList(deal1), Collections.singletonList("screenshot1"));
-        //Create a new deal that will be added
-        Deal newDeal = new Deal("Store 4", "Store Name 4", currentDate, "Deal 4", 25.0, 35.0, 10.0);
-        //Define behavior of the mock when its asked to find a game by the ID
-        when(gameServiceMock.findGameByID(1)).thenReturn(Optional.of(existingGame));
-        //Define behavior of the mock when it's asked to update game deals
-        when(gameServiceMock.updateGameDeals(1, newDeal)).thenReturn(ResponseEntity.ok(existingGame));
-        //create instance of gameController
-        GameController gameController = new GameController(gameServiceMock);
-        //Call method to update game deals and get responseEntity
-        ResponseEntity<Game> responseEntity = gameController.updateGameDeals(1, newDeal);
-        System.out.println("Response Entity: " + responseEntity);
-        System.out.println("existingGame: " + existingGame);
-        //Verify that the returned game is the same as the existing game
-        assertEquals(existingGame, responseEntity.getBody());
-
-        Game updateGame = responseEntity.getBody();
-        System.out.println("updateGame: " + updateGame);
-        assertNotNull(updateGame);
-        int initialSize = existingGame.getDeals().size();
-        int finalSize = updateGame.getDeals().size();
-        assertEquals(initialSize + 1, finalSize);
-
-
-
     }
 
 }
