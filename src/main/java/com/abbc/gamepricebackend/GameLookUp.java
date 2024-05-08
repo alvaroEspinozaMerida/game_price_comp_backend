@@ -12,35 +12,40 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import java.io.File;
 import java.io.IOException;
 import java.net.URI;
+import java.io.FileWriter;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+
 //
 //Important Note:
 // Mapss are necessary for sending data through json format through https request
 public class GameLookUp {
+    static ObjectMapper mapper = new ObjectMapper();
+    static HttpClient client = HttpClient.newHttpClient();
+
+
     public static void main(String[] args) {
 
         List<Map<String, Object>> gameList = new ArrayList<>();
-        ObjectMapper mapper = new ObjectMapper();
         mapper.enable(SerializationFeature.INDENT_OUTPUT);
         mapper.disable(SerializationFeature.WRITE_SINGLE_ELEM_ARRAYS_UNWRAPPED);
         mapper.registerModule(new JavaTimeModule());
-
-
 //        Call to the API has a limit of 25 game ids
-        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=1,2,3,4,5,6";
-        String gameIDs = "";
-//        for(int i = 0; i <= 1 ; i ++){
+        String apiURL = "https://www.cheapshark.com/api/1.0/games?ids=21,22,23,24,25,26,27,28,29";
+//        String gameIDs = "";
+//        for(int i = 0; i <= 4 ; i ++){
 //
 //            gameIDs = "";
-//            for(int j = 1; j <= 2; j ++){
-//                gameIDs += (j + (i * 25) ) + ",";
+//            for(int j = 1; j <= 10; j ++){
+//
+//                gameIDs += (j + (i * 25) );
+//                if (j != 10){
+//                    gameIDs+= ",";
+//                }
 //            }
+//            System.out.println("URL USED:"+apiURL+gameIDs);
 //            each call to getAPIData adds a new game object into a list; the list is then written into a json file at the end
 //            within this function there is a helper function processGame that is incharge of formatting each indivdual game object data
 //            this will be useful for the first time the data gets added into the database the first time
@@ -50,7 +55,16 @@ public class GameLookUp {
 //        }
 
         try {
-            mapper.writeValue(new File("usersData.json"), gameList);
+
+            String json = mapper.writeValueAsString(gameList);
+
+            // Open file in append mode
+            FileWriter fileWriter = new FileWriter("usersData.json", true);
+
+            // Append JSON string to file
+            fileWriter.write(json);
+            fileWriter.close();
+
             System.out.println("JSON data is written to the file successfully");
         }
         catch (IOException e) {
@@ -71,10 +85,7 @@ public class GameLookUp {
      *///
 
     private static void writeToDataBase(Map<String, Object> gameData){
-
-        HttpClient client = HttpClient.newHttpClient();
         String requestBody;
-        ObjectMapper mapper = new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
 
         try {
@@ -112,41 +123,45 @@ public class GameLookUp {
      * @param gameList the second number to add
      *///
     private  static void getAPIData(String apiURL, List<Map<String, Object>> gameList ){
-        HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(apiURL))
                 .build();
-
-        ObjectMapper mapper = new ObjectMapper();
-
         mapper.registerModule(new JavaTimeModule());
 
         try {
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
             JsonNode rootNode = mapper.readTree(response.body());
-
-
             rootNode.fields().forEachRemaining(entry -> {
                 JsonNode value = entry.getValue();
-//                Deals is a list with in the
-                JsonNode dealsNode = value.get("deals");
+                JsonNode steamAppIDNode = value.get("info").path("steamAppID");
 
-                // extract cover image and translate store to correct store name
+                if (!steamAppIDNode.isNull()){
+                    //                Deals is a list with in the
+                    JsonNode dealsNode = value.get("deals");
 
-                List<Deal> deals = null;
-                if (dealsNode != null && dealsNode.isArray()){
-                   deals = mapper.convertValue(dealsNode, new TypeReference<List<Deal>>() {});
-                    for (Deal deal : deals) {
+                    // extract cover image and translate store to correct store name
+
+                    List<Deal> deals;
+                    if (dealsNode != null && dealsNode.isArray()){
+                        deals = mapper.convertValue(dealsNode, new TypeReference<List<Deal>>() {});
+                        for (Deal deal : deals) {
 //                        Translate store id to string here
-                       deal.setStoreNameByStoreID(deal.getStoreID());
-                       deal.setDate();
+                            deal.setStoreNameByStoreID(deal.getStoreID());
+                            deal.setDate();
+                        }
+                    } else {
+                        deals = null;
                     }
-                }
+                    Optional<Map<String, Object>> gameData = processGame(value);
+                    gameData.ifPresent(map -> {
 
-                Map<String, Object> gameData = processGame(value,deals);
-//                COMMENTED OUT MAKE SURE TO COMMENT BACK IN BEFORE DEPOY
-                writeToDataBase(gameData);
-                gameList.add(gameData);
+                        map.put("deals", deals);
+
+                        writeToDataBase(map);
+                        gameList.add(map);
+                    });
+
+                }
             });
 
         } catch (IOException | InterruptedException e) {
@@ -155,37 +170,33 @@ public class GameLookUp {
 
     }
 
-
     /**
      * Creates a map for an individual game object that contains data for the Game object
      * and Deals with time stamps added to it
      * @param gameNode data for the individual game extracted from the cheap shark api
      * @param deals list of deals for an individual game object
      *///
-    private static Map<String, Object> processGame(JsonNode gameNode,  List<Deal> deals) {
+    private static Optional<Map<String, Object>> processGame(JsonNode gameNode) {
 
         Map<String, Object> gameData = new HashMap<>();
         gameData.put("steamAppID",gameNode.get("info").get("steamAppID").asText());
         gameData.put("title", gameNode.get("info").get("title").asText());
-        gameData.put("deals", deals);
         gameData.put("thumb", gameNode.get("info").get("thumb").asText());
 
-        addImages(gameData);
+        System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++");
+        System.out.println("PROCESSING GAME: ");
 
-
-        return gameData;
-    }
-
-    private static void addImages(Map<String, Object> gameData){
+        System.out.println(gameNode.get("info").get("steamAppID").asText());
+        System.out.println(gameNode.get("info").get("title").asText());
 
         List<String> screenshots;
-        System.out.println(gameData.toString());
-
         ObjectMapper mapper = new ObjectMapper();
+        String url = "https://steam-store-data.p.rapidapi.com/api/appdetails/?appids=" + gameNode.get("info").get("steamAppID").asText();
 
-        String url = "https://steam-store-data.p.rapidapi.com/api/appdetails/?appids=" + (String) gameData.get("steamAppID");
 
         System.out.println(url);
+
+
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(url))
                 .header("X-RapidAPI-Key", "add2abae0bmshaf08b249e5ccf64p192f9fjsn13177604ae23")
@@ -195,29 +206,47 @@ public class GameLookUp {
         HttpResponse<String> response = null;
         try {
             response = HttpClient.newHttpClient().send(request, HttpResponse.BodyHandlers.ofString());
-
-
-
             JsonNode rootNode = mapper.readTree(response.body());
+            System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++\n\n");
+
+//            Check if not successful return empty optional
+            JsonNode successNode =  rootNode.path((String) gameData.get("steamAppID")).path("success");
+
+//            If there the request is not successful return Optional Empty
+            if (!successNode.asBoolean()){
+                return Optional.empty();
+            }
+
             JsonNode dataNode = rootNode.path((String) gameData.get("steamAppID")).path("data"); // Navigate to the 'data' node
             JsonNode screenshotsNode = dataNode.path("screenshots");
+//            Not enough images to continue processing
+//            if (screenshotsNode.size() < 3){
+//                return Optional.empty();
+//            }
 
             screenshots = new ArrayList<>();
-
+//          If there are no screenshots then this game is not valid and should not be added to our database
             if (screenshotsNode.isArray()) {
                 for (JsonNode screenshot : screenshotsNode) {
                     String fullUrl = screenshot.path("path_full").asText();
                     screenshots.add(fullUrl);
                 }
             }
-
             gameData.put("screenshots", screenshots);
 
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            System.out.println("Error Writing Game with ID:" + gameNode.get("info").get("steamAppID").asText());
+            System.out.println("Error Writing Game with title:" + gameNode.get("info").get("title").asText());
+
+            return Optional.empty();
+
         } catch (InterruptedException e) {
-            throw new RuntimeException(e);
+            System.out.println("Error Writing Game with ID:" + gameNode.get("info").get("steamAppID").asText());
+            System.out.println("Error Writing Game with title:" + gameNode.get("info").get("title").asText());
+            return Optional.empty();
         }
+
+        return Optional.of(gameData);
 
     }
 
